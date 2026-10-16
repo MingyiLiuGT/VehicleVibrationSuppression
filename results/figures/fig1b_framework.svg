@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="396.36pt" height="183.168pt" viewBox="0 0 396.36 183.168" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-12T13:34:23.037029</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 183.168 
+L 396.36 183.168 
+L 396.36 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 6.135 84.48768 
+L 74.49 84.48768 
+L 74.49 49.00608 
+L 6.135 49.00608 
+z
+" clip-path="url(#pe06ff0447f)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 103.785 84.48768 
+L 201.435 84.48768 
+L 201.435 49.00608 
+L 103.785 49.00608 
+z
+" clip-path="url(#pe06ff0447f)" style="fill: #ffffff; stroke: #0000ff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 263.28 84.48768 
+L 360.93 84.48768 
+L 360.93 49.00608 
+L 263.28 49.00608 
+z
+" clip-path="url(#pe06ff0447f)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 133.08 157.22496 
+L 233.985 157.22496 
+L 233.985 121.74336 
+L 133.08 121.74336 
+z
+" clip-path="url(#pe06ff0447f)" style="fill: #ffffff; stroke: #ff0000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 263.28 157.22496 
+L 360.93 157.22496 
+L 360.93 121.74336 
+L 263.28 121.74336 
+z
+" clip-path="url(#pe06ff0447f)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 103.785 31.26528 
+L 201.435 31.26528 
+L 201.435 9.97632 
+L 103.785 9.97632 
+z
+" clip-path="url(#pe06ff0447f)" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(20.9275 64.024224)">State and</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(14.27875 73.626411)">road preview</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(110.345625 64.024224)">Mass-conditioned NN</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(116.66625 73.626411)">+ force projection</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(294.558125 64.023911)">Two-DOF</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(278.3025 73.626099)">quarter-car plant</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(143.52375 136.761504)">Online sprung-mass</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(152.360625 146.363691)">estimator (RLS)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(271.776875 136.761504)">Applied force, state,</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(276.29875 146.363691)">body acceleration</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(129.55875 17.898144)">Offline MPC</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(121.2375 27.500331)">demonstrations</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 76.489012 66.74688 
+Q 89.135731 66.74688 100.776219 66.74688 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 97.176219 64.94688 
+L 100.776219 66.74688 
+L 97.176219 68.54688 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 203.431826 66.74688 
+Q 232.356861 66.74688 260.275664 66.74688 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 256.675664 64.94688 
+L 260.275664 66.74688 
+L 256.675664 68.54688 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 312.105 86.48417 
+Q 312.105 103.113062 312.105 118.735723 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 313.905 115.135723 
+L 312.105 118.735723 
+L 310.305 115.135723 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 261.280988 139.48416 
+Q 248.634269 139.48416 236.993781 139.48416 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 240.593781 141.28416 
+L 236.993781 139.48416 
+L 240.593781 137.68416 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 183.5325 119.74687 
+Q 183.5325 103.117978 183.5325 87.495317 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 181.7325 91.095317 
+L 183.5325 87.495317 
+L 185.3325 91.095317 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 152.61 33.261986 
+Q 152.61 40.13273 152.61 45.997244 
+" style="fill: none; stroke-dasharray: 3.33,1.44; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 154.41 42.397244 
+L 152.61 45.997244 
+L 150.81 42.397244 
+" style="fill: none; stroke-dasharray: 3.33,1.44; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <!-- $u_k$ -->
+    <g transform="translate(227.5425 57.87648)">
+     <text>
+      <tspan x="0" y="-0.078125" style="font-style: oblique; font-size: 9px; font-family: 'DejaVu Sans'">u</tspan>
+      <tspan x="5.704102" y="1.271871" style="font-style: oblique; font-size: 6.3px; font-family: 'DejaVu Sans'">k</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_8">
+    <!-- $\hat m_{s,k-1}$ -->
+    <g transform="translate(188.415 105.77664)">
+     <text>
+      <tspan x="7.617188" y="-1.796875" style="font-size: 9px; font-family: 'DejaVu Sans'">̂</tspan>
+      <tspan x="0" y="-0.671875" style="font-style: oblique; font-size: 9px; font-family: 'DejaVu Sans'">m</tspan>
+      <tspan x="8.853223" y="0.678121" style="font-style: oblique; font-size: 6.3px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="15.365479" y="0.678121" style="font-style: oblique; font-size: 6.3px; font-family: 'DejaVu Sans'">k</tspan>
+      <tspan x="12.135498" y="0.678121" style="font-size: 6.3px; font-family: 'DejaVu Sans'">,</tspan>
+      <tspan x="20.241211" y="0.678121" style="font-size: 6.3px; font-family: 'DejaVu Sans'">−</tspan>
+      <tspan x="26.747314" y="0.678121" style="font-size: 6.3px; font-family: 'DejaVu Sans'">1</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="198.18" y="174.610944" transform="rotate(-0 198.18 174.610944)">Estimate updated after actuation; used by the next control command</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe06ff0447f">
+   <rect x="2.88" y="2.88" width="390.6" height="177.408"/>
+  </clipPath>
+ </defs>
+</svg>

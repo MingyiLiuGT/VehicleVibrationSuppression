@@ -1,0 +1,25 @@
+{
+  "epochs": 800,
+  "best_epoch": 591,
+  "seconds": 49.345434749964625,
+  "centered_inputs_folded_into_first_layer": true,
+  "validation_original": {
+    "action_rmse_N": 2.7789871051992843,
+    "nominal_rmse_N": 2.76515669734971,
+    "mass_delta_rmse_N": 1.0077642004030427,
+    "saturation_mae_N": 0.782899247230207,
+    "raw_over_pct": 21.040625,
+    "applied_over_pct": 0.0,
+    "loss": 0.00012787240777121595
+  },
+  "validation_expanded": {
+    "action_rmse_N": 0.9459172929989942,
+    "nominal_rmse_N": 0.9466802444490353,
+    "mass_delta_rmse_N": 0.2805019539276951,
+    "saturation_mae_N": 1.728320402977967,
+    "raw_over_pct": 0.49479166666666663,
+    "applied_over_pct": 0.0,
+    "loss": 1.0552806340245808e-05
+  },
+  "policy_sha256": "e765442b6a4f3ca87c67f5a88bfdfccc925904088a31bcf7d42f30679daac338"
+}

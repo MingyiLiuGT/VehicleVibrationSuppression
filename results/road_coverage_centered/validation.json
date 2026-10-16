@@ -1,0 +1,16 @@
+{
+  "measured_trajectories": 120,
+  "measured_segments": 24,
+  "all_results_retained": true,
+  "max_transition_residual": 4.440892098500626e-16,
+  "max_output_residual": 0.0,
+  "max_nn_replay_error_N": 0.0,
+  "max_rms_error": 0.0,
+  "common_height_invariance_error_N": 8.526512829121202e-13,
+  "policy_sha256": "e765442b6a4f3ca87c67f5a88bfdfccc925904088a31bcf7d42f30679daac338",
+  "synthetic_train_roads": 48,
+  "synthetic_validation_roads": 12,
+  "measured_training": false,
+  "all_applied_forces_within_bounds": true,
+  "all_tire_contact_positive": true
+}

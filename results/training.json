@@ -1,0 +1,33 @@
+{
+  "seeds": [
+    {
+      "seed": 11,
+      "validation_rmse_N": 5.1457717025508725,
+      "epoch": 201,
+      "elapsed_s": 20.020031625055708
+    },
+    {
+      "seed": 22,
+      "validation_rmse_N": 5.204294762754255,
+      "epoch": 247,
+      "elapsed_s": 22.95470204204321
+    },
+    {
+      "seed": 33,
+      "validation_rmse_N": 5.138744786515417,
+      "epoch": 248,
+      "elapsed_s": 20.334044500021264
+    }
+  ],
+  "selected_seed": 33,
+  "architecture": [
+    35,
+    128,
+    128,
+    1
+  ],
+  "selection_rule": "minimum scenario-disjoint validation projected action MSE",
+  "train_samples": 40000,
+  "validation_samples": 8000,
+  "test_samples": 8000
+}

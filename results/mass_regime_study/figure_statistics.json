@@ -1,0 +1,20 @@
+{
+  "decrease_200": {
+    "final_curve_rms": {
+      "NN_fixed": 0.05114000647683,
+      "NN_adaptive": 0.024223040485036082,
+      "NN_oracle": 0.020590822248982017
+    },
+    "early_mass_error_pct": 12.563087871583638,
+    "terminal_mass_error_pct": 6.3796084324651545
+  },
+  "increase_420": {
+    "final_curve_rms": {
+      "NN_fixed": 0.1636989174171074,
+      "NN_adaptive": 0.1342808332942744,
+      "NN_oracle": 0.13316172065675558
+    },
+    "early_mass_error_pct": 5.593797616792856,
+    "terminal_mass_error_pct": 3.6169103976855954
+  }
+}

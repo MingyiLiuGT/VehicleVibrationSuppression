@@ -1,0 +1,288 @@
+{
+  "trajectories": 1056,
+  "max_transition_residual": 4.440892098500626e-16,
+  "max_force_balance_residual": 0.0,
+  "max_causal_estimator_replay_error_kg": 0.0,
+  "max_nn_action_replay_error_N": 4.547473508864641e-13,
+  "max_window_rms_error": 0.0,
+  "maximum_force_N": 500.0,
+  "minimum_contact_ratio": 0.1920029328256858,
+  "paired_test": {
+    "original": {
+      "samples": 32000,
+      "mae_N": 3.066418135965875,
+      "rmse_N": 5.179653930258577,
+      "max_error_N": 63.18005292931781,
+      "sat_mae_N": 1.8739785150848047,
+      "sat_samples": 9022,
+      "raw_violation_pct": 17.134375,
+      "mass_delta_rmse_N": 3.256025262326949
+    },
+    "optimized": {
+      "samples": 32000,
+      "mae_N": 1.352656982959771,
+      "rmse_N": 2.748707494570511,
+      "max_error_N": 50.68215117934392,
+      "sat_mae_N": 0.7871538723368533,
+      "sat_samples": 9022,
+      "raw_violation_pct": 19.075,
+      "mass_delta_rmse_N": 1.0232893607295035
+    }
+  },
+  "representative_seed": 16001,
+  "representative_selection": "Upper median by fixed-controller loaded RMS among twelve 200 kg sine roads; adaptive gain not used.",
+  "representative": {
+    "loaded": {
+      "NN_fixed": {
+        "acc_rms": 0.07564793961747837,
+        "acc_peak": 0.1549659549925434,
+        "travel_rms_mm": 9.661564677256992,
+        "tire_rms_N": 268.2500149877367,
+        "force_rms_N": 391.17134499404926,
+        "tail_error_pct": 50.0
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.0643060148542499,
+        "acc_peak": 0.1459448007341308,
+        "travel_rms_mm": 9.68896314374805,
+        "tire_rms_N": 268.32508339323726,
+        "force_rms_N": 387.25451362556987,
+        "tail_error_pct": 4.916690208783844
+      },
+      "NN_oracle": {
+        "acc_rms": 0.06337499296540061,
+        "acc_peak": 0.13197724981250872,
+        "travel_rms_mm": 9.692010667195737,
+        "tire_rms_N": 268.3367080180327,
+        "force_rms_N": 386.80664395492147,
+        "tail_error_pct": 0.0
+      },
+      "MPC_fixed": {
+        "acc_rms": 0.06864164482673024,
+        "acc_peak": 0.1383770514517238,
+        "travel_rms_mm": 9.658768905948605,
+        "tire_rms_N": 269.76320841518907,
+        "force_rms_N": 389.2020317077786,
+        "tail_error_pct": 50.0
+      },
+      "MPC_oracle": {
+        "acc_rms": 0.060176352528936265,
+        "acc_peak": 0.13487892888905578,
+        "travel_rms_mm": 9.687789368811497,
+        "tire_rms_N": 269.643855656483,
+        "force_rms_N": 385.4364413083577,
+        "tail_error_pct": 0.0
+      }
+    },
+    "early": {
+      "NN_fixed": {
+        "acc_rms": 0.07588738764084528,
+        "acc_peak": 0.1549659549925434,
+        "travel_rms_mm": 9.660072315862127,
+        "tire_rms_N": 268.1415467470839,
+        "force_rms_N": 391.1470283065589,
+        "tail_error_pct": 50.0
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.06620060880201237,
+        "acc_peak": 0.1459448007341308,
+        "travel_rms_mm": 9.680985241322604,
+        "tire_rms_N": 268.27376163716605,
+        "force_rms_N": 387.9402116429443,
+        "tail_error_pct": 4.916690208783844
+      },
+      "NN_oracle": {
+        "acc_rms": 0.06359791347370396,
+        "acc_peak": 0.13197724981250872,
+        "travel_rms_mm": 9.689571975443876,
+        "tire_rms_N": 268.2900292147798,
+        "force_rms_N": 386.7547741018857,
+        "tail_error_pct": 0.0
+      },
+      "MPC_fixed": {
+        "acc_rms": 0.06884011573116687,
+        "acc_peak": 0.1383770514517238,
+        "travel_rms_mm": 9.655476871884044,
+        "tire_rms_N": 269.6498950625018,
+        "force_rms_N": 389.1619202441957,
+        "tail_error_pct": 50.0
+      },
+      "MPC_oracle": {
+        "acc_rms": 0.06041138645346111,
+        "acc_peak": 0.13487892888905578,
+        "travel_rms_mm": 9.68385225405587,
+        "tire_rms_N": 269.581021321674,
+        "force_rms_N": 385.37702608378964,
+        "tail_error_pct": 0.0
+      }
+    },
+    "settled": {
+      "NN_fixed": {
+        "acc_rms": 0.07556795500414774,
+        "acc_peak": 0.1389693554360116,
+        "travel_rms_mm": 9.662062079832202,
+        "tire_rms_N": 268.28616132267257,
+        "force_rms_N": 391.17945022063805,
+        "tail_error_pct": 50.0
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.06366195509612461,
+        "acc_peak": 0.11922272049622677,
+        "travel_rms_mm": 9.691620985176254,
+        "tire_rms_N": 268.3421884640306,
+        "force_rms_N": 387.02567765112366,
+        "tail_error_pct": 4.916690208783844
+      },
+      "NN_oracle": {
+        "acc_rms": 0.06330051167578762,
+        "acc_peak": 0.11899019401537146,
+        "travel_rms_mm": 9.692823428097658,
+        "tire_rms_N": 268.3522658147634,
+        "force_rms_N": 386.82393236030816,
+        "tail_error_pct": 0.0
+      },
+      "MPC_fixed": {
+        "acc_rms": 0.06857536021097636,
+        "acc_peak": 0.11526148281717952,
+        "travel_rms_mm": 9.659866001323739,
+        "tire_rms_N": 269.8009689571238,
+        "force_rms_N": 389.2154012770225,
+        "tail_error_pct": 50.0
+      },
+      "MPC_oracle": {
+        "acc_rms": 0.06009780362464126,
+        "acc_peak": 0.12067630484724588,
+        "travel_rms_mm": 9.68910138487991,
+        "tire_rms_N": 269.6647971812043,
+        "force_rms_N": 385.45624434801005,
+        "tail_error_pct": 0.0
+      }
+    },
+    "whole": {
+      "NN_fixed": {
+        "acc_rms": 0.06788577911507501,
+        "acc_peak": 0.1549659549925434,
+        "travel_rms_mm": 9.653455187540349,
+        "tire_rms_N": 267.3661573238715,
+        "force_rms_N": 389.5931190333168,
+        "tail_error_pct": 50.0
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.05955706659495712,
+        "acc_peak": 0.1459448007341308,
+        "travel_rms_mm": 9.672570925829067,
+        "tire_rms_N": 267.3888277804868,
+        "force_rms_N": 386.8335609302134,
+        "tail_error_pct": 4.916690208783844
+      },
+      "NN_oracle": {
+        "acc_rms": 0.05892763898075091,
+        "acc_peak": 0.13197724981250872,
+        "travel_rms_mm": 9.674191865263237,
+        "tire_rms_N": 267.42180694547096,
+        "force_rms_N": 386.6758156170616,
+        "tail_error_pct": 0.0
+      },
+      "MPC_fixed": {
+        "acc_rms": 0.062212692053662456,
+        "acc_peak": 0.1383770514517238,
+        "travel_rms_mm": 9.65158193016679,
+        "tire_rms_N": 268.7205729891531,
+        "force_rms_N": 387.7899486260215,
+        "tail_error_pct": 50.0
+      },
+      "MPC_oracle": {
+        "acc_rms": 0.05609252576915042,
+        "acc_peak": 0.13487892888905578,
+        "travel_rms_mm": 9.671190490628984,
+        "tire_rms_N": 268.6414309024317,
+        "force_rms_N": 385.27240291514835,
+        "tail_error_pct": 0.0
+      }
+    },
+    "recovery": {
+      "NN_fixed": {
+        "acc_rms": 0.04950616568952601,
+        "acc_peak": 0.11096267711896492,
+        "travel_rms_mm": 9.864305015472212,
+        "tire_rms_N": 269.7537564657695,
+        "force_rms_N": 393.07099919561887,
+        "tail_error_pct": 50.0
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.049492587964610084,
+        "acc_peak": 0.12874561500286555,
+        "travel_rms_mm": 9.867900526906462,
+        "tire_rms_N": 269.6742648573658,
+        "force_rms_N": 392.69886003136156,
+        "tail_error_pct": 4.916690208783844
+      },
+      "NN_oracle": {
+        "acc_rms": 0.049595063867373466,
+        "acc_peak": 0.10901041106582776,
+        "travel_rms_mm": 9.866727194255496,
+        "tire_rms_N": 269.739838174384,
+        "force_rms_N": 393.06450318726115,
+        "tail_error_pct": 0.0
+      },
+      "MPC_fixed": {
+        "acc_rms": 0.047577228076299806,
+        "acc_peak": 0.10890772507779654,
+        "travel_rms_mm": 9.862765819305208,
+        "tire_rms_N": 270.83237823600075,
+        "force_rms_N": 391.56217942883717,
+        "tail_error_pct": 50.0
+      },
+      "MPC_oracle": {
+        "acc_rms": 0.047762275933488856,
+        "acc_peak": 0.10900293642276362,
+        "travel_rms_mm": 9.864163208836711,
+        "tire_rms_N": 270.83671886164433,
+        "force_rms_N": 391.55013255386285,
+        "tail_error_pct": 0.0
+      }
+    }
+  },
+  "improvement_counts": {
+    "sine_200": {
+      "improved": 9,
+      "unchanged": 2,
+      "total": 12
+    },
+    "sine_240": {
+      "improved": 9,
+      "unchanged": 2,
+      "total": 12
+    },
+    "sine_360": {
+      "improved": 2,
+      "unchanged": 2,
+      "total": 12
+    },
+    "sine_420": {
+      "improved": 2,
+      "unchanged": 2,
+      "total": 12
+    },
+    "multisine_200": {
+      "improved": 2,
+      "unchanged": 0,
+      "total": 12
+    },
+    "multisine_240": {
+      "improved": 2,
+      "unchanged": 0,
+      "total": 12
+    },
+    "multisine_360": {
+      "improved": 11,
+      "unchanged": 0,
+      "total": 12
+    },
+    "multisine_420": {
+      "improved": 11,
+      "unchanged": 0,
+      "total": 12
+    }
+  }
+}

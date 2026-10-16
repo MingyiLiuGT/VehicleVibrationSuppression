@@ -1,0 +1,7 @@
+{
+  "trajectories": 48,
+  "constant_mass_and_model_checks_pass": true,
+  "max_transition_residual": 4.440892098500626e-16,
+  "max_force_N": 500.0,
+  "max_kkt_residual": 1.3137357601777921e-06
+}

@@ -1,0 +1,674 @@
+[
+  {
+    "split": "train",
+    "seed": 1000,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1001,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1002,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1003,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1004,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1005,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1006,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1007,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1008,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1009,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1010,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1011,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1012,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1013,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1014,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1015,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1016,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1017,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1018,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1019,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1020,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1021,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1022,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1023,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1024,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1025,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1026,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1027,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1028,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1029,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1030,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1031,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1032,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1033,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1034,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1035,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1036,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1037,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1038,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1039,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1040,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1041,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1042,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1043,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1044,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1045,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1046,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1047,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1048,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1049,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1050,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1051,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1052,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1053,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1054,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1055,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1056,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1057,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1058,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1059,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1060,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1061,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1062,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1063,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1064,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1065,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1066,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1067,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1068,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1069,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1070,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1071,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1072,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1073,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1074,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1075,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "train",
+    "seed": 1076,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1077,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1078,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "train",
+    "seed": 1079,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "validation",
+    "seed": 2000,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "validation",
+    "seed": 2001,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "validation",
+    "seed": 2002,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "validation",
+    "seed": 2003,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "validation",
+    "seed": 2004,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "validation",
+    "seed": 2005,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "validation",
+    "seed": 2006,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "validation",
+    "seed": 2007,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "validation",
+    "seed": 2008,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "validation",
+    "seed": 2009,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "validation",
+    "seed": 2010,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "validation",
+    "seed": 2011,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "validation",
+    "seed": 2012,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "validation",
+    "seed": 2013,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "validation",
+    "seed": 2014,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "validation",
+    "seed": 2015,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "test",
+    "seed": 3000,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "test",
+    "seed": 3001,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "test",
+    "seed": 3002,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "test",
+    "seed": 3003,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "test",
+    "seed": 3004,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "test",
+    "seed": 3005,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "test",
+    "seed": 3006,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "test",
+    "seed": 3007,
+    "mass": 420.0,
+    "road": "multisine"
+  },
+  {
+    "split": "test",
+    "seed": 3008,
+    "mass": 240.0,
+    "road": "sine"
+  },
+  {
+    "split": "test",
+    "seed": 3009,
+    "mass": 300.0,
+    "road": "sine"
+  },
+  {
+    "split": "test",
+    "seed": 3010,
+    "mass": 360.0,
+    "road": "sine"
+  },
+  {
+    "split": "test",
+    "seed": 3011,
+    "mass": 420.0,
+    "road": "sine"
+  },
+  {
+    "split": "test",
+    "seed": 3012,
+    "mass": 240.0,
+    "road": "multisine"
+  },
+  {
+    "split": "test",
+    "seed": 3013,
+    "mass": 300.0,
+    "road": "multisine"
+  },
+  {
+    "split": "test",
+    "seed": 3014,
+    "mass": 360.0,
+    "road": "multisine"
+  },
+  {
+    "split": "test",
+    "seed": 3015,
+    "mass": 420.0,
+    "road": "multisine"
+  }
+]

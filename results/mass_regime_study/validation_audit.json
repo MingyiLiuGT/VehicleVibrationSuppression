@@ -1,0 +1,14 @@
+{
+  "trajectories": 720,
+  "max_errors": {
+    "dynamics": 4.440892098500626e-16,
+    "force_balance": 0.0,
+    "policy_replay": 0.0,
+    "estimator_replay": 0.0,
+    "rms": 0.0
+  },
+  "max_force_N": 500.0,
+  "min_contact_ratio": 0.8514777249730378,
+  "all_validation_roads_retained": true,
+  "primary_success": true
+}

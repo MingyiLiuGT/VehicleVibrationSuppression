@@ -1,0 +1,14 @@
+{
+  "forgetting": [
+    0.97,
+    0.99,
+    0.995,
+    0.999
+  ],
+  "gates": [
+    0.005,
+    0.02,
+    0.05
+  ],
+  "selection": "Mean absolute relative mass error over all 4\u201324 s development fixed-input trajectories. Closed-loop gain is not a selection criterion. No held-out trajectories used."
+}

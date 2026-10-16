@@ -1,0 +1,15 @@
+{
+  "activation": "linear",
+  "epochs": 1100,
+  "best_epoch": 1007,
+  "seconds": 47.66723858297337,
+  "validation": {
+    "action_rmse_N": 3.3492377532066664,
+    "nominal_rmse_N": 3.331739875914893,
+    "mass_delta_rmse_N": 1.1638918339093154,
+    "saturation_mae_N": 1.041805204553362,
+    "raw_over_pct": 18.040625,
+    "applied_over_pct": 0.0,
+    "loss": 0.0001671278453262523
+  }
+}

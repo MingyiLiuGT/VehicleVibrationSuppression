@@ -1,0 +1,4322 @@
+[
+  {
+    "case_id": "decrease_200_19400",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19400,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.019491367183770904,
+    "frequency": 1.3492162191566666
+  },
+  {
+    "case_id": "decrease_200_19400",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19400,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019491367183770904,
+    "frequency": 1.3492162191566666
+  },
+  {
+    "case_id": "decrease_200_19400",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19400,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.019491367183770904,
+    "frequency": 1.3492162191566666
+  },
+  {
+    "case_id": "decrease_200_19401",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19401,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.01919244355381937,
+    "frequency": 1.4948702588927179
+  },
+  {
+    "case_id": "decrease_200_19401",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19401,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.01919244355381937,
+    "frequency": 1.4948702588927179
+  },
+  {
+    "case_id": "decrease_200_19401",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19401,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.01919244355381937,
+    "frequency": 1.4948702588927179
+  },
+  {
+    "case_id": "decrease_200_19402",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19402,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.020630898083649273,
+    "frequency": 1.3592876427236877
+  },
+  {
+    "case_id": "decrease_200_19402",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19402,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020630898083649273,
+    "frequency": 1.3592876427236877
+  },
+  {
+    "case_id": "decrease_200_19402",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19402,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.020630898083649273,
+    "frequency": 1.3592876427236877
+  },
+  {
+    "case_id": "decrease_200_19403",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19403,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.020734851568305908,
+    "frequency": 1.3956802540585398
+  },
+  {
+    "case_id": "decrease_200_19403",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19403,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020734851568305908,
+    "frequency": 1.3956802540585398
+  },
+  {
+    "case_id": "decrease_200_19403",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19403,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.020734851568305908,
+    "frequency": 1.3956802540585398
+  },
+  {
+    "case_id": "decrease_200_19404",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19404,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.020653797747410083,
+    "frequency": 1.315762870029829
+  },
+  {
+    "case_id": "decrease_200_19404",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19404,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020653797747410083,
+    "frequency": 1.315762870029829
+  },
+  {
+    "case_id": "decrease_200_19404",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19404,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.020653797747410083,
+    "frequency": 1.315762870029829
+  },
+  {
+    "case_id": "decrease_200_19405",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19405,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.02053524011938878,
+    "frequency": 1.4113971265286882
+  },
+  {
+    "case_id": "decrease_200_19405",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19405,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02053524011938878,
+    "frequency": 1.4113971265286882
+  },
+  {
+    "case_id": "decrease_200_19405",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19405,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.02053524011938878,
+    "frequency": 1.4113971265286882
+  },
+  {
+    "case_id": "decrease_200_19406",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19406,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.019496286133847764,
+    "frequency": 1.4880291952134237
+  },
+  {
+    "case_id": "decrease_200_19406",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19406,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019496286133847764,
+    "frequency": 1.4880291952134237
+  },
+  {
+    "case_id": "decrease_200_19406",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19406,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.019496286133847764,
+    "frequency": 1.4880291952134237
+  },
+  {
+    "case_id": "decrease_200_19407",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19407,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.019770688623329626,
+    "frequency": 1.4841562007242657
+  },
+  {
+    "case_id": "decrease_200_19407",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19407,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019770688623329626,
+    "frequency": 1.4841562007242657
+  },
+  {
+    "case_id": "decrease_200_19407",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19407,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.019770688623329626,
+    "frequency": 1.4841562007242657
+  },
+  {
+    "case_id": "decrease_200_19408",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19408,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.020219038073254106,
+    "frequency": 1.3170971328126881
+  },
+  {
+    "case_id": "decrease_200_19408",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19408,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020219038073254106,
+    "frequency": 1.3170971328126881
+  },
+  {
+    "case_id": "decrease_200_19408",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19408,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.020219038073254106,
+    "frequency": 1.3170971328126881
+  },
+  {
+    "case_id": "decrease_200_19409",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19409,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.019209218411049608,
+    "frequency": 1.4247735391779364
+  },
+  {
+    "case_id": "decrease_200_19409",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19409,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019209218411049608,
+    "frequency": 1.4247735391779364
+  },
+  {
+    "case_id": "decrease_200_19409",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19409,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.019209218411049608,
+    "frequency": 1.4247735391779364
+  },
+  {
+    "case_id": "decrease_200_19410",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19410,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.019901551240117388,
+    "frequency": 1.453266341574523
+  },
+  {
+    "case_id": "decrease_200_19410",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19410,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019901551240117388,
+    "frequency": 1.453266341574523
+  },
+  {
+    "case_id": "decrease_200_19410",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19410,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.019901551240117388,
+    "frequency": 1.453266341574523
+  },
+  {
+    "case_id": "decrease_200_19411",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19411,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.019152981034855514,
+    "frequency": 1.497219946664333
+  },
+  {
+    "case_id": "decrease_200_19411",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19411,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019152981034855514,
+    "frequency": 1.497219946664333
+  },
+  {
+    "case_id": "decrease_200_19411",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19411,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.019152981034855514,
+    "frequency": 1.497219946664333
+  },
+  {
+    "case_id": "decrease_200_19412",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19412,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.020533249388522877,
+    "frequency": 1.3071462190642356
+  },
+  {
+    "case_id": "decrease_200_19412",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19412,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020533249388522877,
+    "frequency": 1.3071462190642356
+  },
+  {
+    "case_id": "decrease_200_19412",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19412,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.020533249388522877,
+    "frequency": 1.3071462190642356
+  },
+  {
+    "case_id": "decrease_200_19413",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19413,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.020814909913030966,
+    "frequency": 1.4468922125108736
+  },
+  {
+    "case_id": "decrease_200_19413",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19413,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020814909913030966,
+    "frequency": 1.4468922125108736
+  },
+  {
+    "case_id": "decrease_200_19413",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19413,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.020814909913030966,
+    "frequency": 1.4468922125108736
+  },
+  {
+    "case_id": "decrease_200_19414",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19414,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.02028073395896863,
+    "frequency": 1.4437557534696726
+  },
+  {
+    "case_id": "decrease_200_19414",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19414,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02028073395896863,
+    "frequency": 1.4437557534696726
+  },
+  {
+    "case_id": "decrease_200_19414",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19414,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.02028073395896863,
+    "frequency": 1.4437557534696726
+  },
+  {
+    "case_id": "decrease_200_19415",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19415,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.01958071976532709,
+    "frequency": 1.368543209974679
+  },
+  {
+    "case_id": "decrease_200_19415",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19415,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.01958071976532709,
+    "frequency": 1.368543209974679
+  },
+  {
+    "case_id": "decrease_200_19415",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19415,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.01958071976532709,
+    "frequency": 1.368543209974679
+  },
+  {
+    "case_id": "decrease_200_19416",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19416,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.020358552091177748,
+    "frequency": 1.3613810835092424
+  },
+  {
+    "case_id": "decrease_200_19416",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19416,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020358552091177748,
+    "frequency": 1.3613810835092424
+  },
+  {
+    "case_id": "decrease_200_19416",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19416,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.020358552091177748,
+    "frequency": 1.3613810835092424
+  },
+  {
+    "case_id": "decrease_200_19417",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19417,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.019334622094721778,
+    "frequency": 1.4416700541029503
+  },
+  {
+    "case_id": "decrease_200_19417",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19417,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019334622094721778,
+    "frequency": 1.4416700541029503
+  },
+  {
+    "case_id": "decrease_200_19417",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19417,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.019334622094721778,
+    "frequency": 1.4416700541029503
+  },
+  {
+    "case_id": "decrease_200_19418",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19418,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.020632112574195793,
+    "frequency": 1.3246117844781664
+  },
+  {
+    "case_id": "decrease_200_19418",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19418,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020632112574195793,
+    "frequency": 1.3246117844781664
+  },
+  {
+    "case_id": "decrease_200_19418",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19418,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.020632112574195793,
+    "frequency": 1.3246117844781664
+  },
+  {
+    "case_id": "decrease_200_19419",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19419,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.0193459870202431,
+    "frequency": 1.372129173688994
+  },
+  {
+    "case_id": "decrease_200_19419",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19419,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.0193459870202431,
+    "frequency": 1.372129173688994
+  },
+  {
+    "case_id": "decrease_200_19419",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19419,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.0193459870202431,
+    "frequency": 1.372129173688994
+  },
+  {
+    "case_id": "decrease_200_19420",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19420,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.020889379411167912,
+    "frequency": 1.4290069936044019
+  },
+  {
+    "case_id": "decrease_200_19420",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19420,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020889379411167912,
+    "frequency": 1.4290069936044019
+  },
+  {
+    "case_id": "decrease_200_19420",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19420,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.020889379411167912,
+    "frequency": 1.4290069936044019
+  },
+  {
+    "case_id": "decrease_200_19421",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19421,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.019422033703098772,
+    "frequency": 1.308046673605722
+  },
+  {
+    "case_id": "decrease_200_19421",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19421,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019422033703098772,
+    "frequency": 1.308046673605722
+  },
+  {
+    "case_id": "decrease_200_19421",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19421,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.019422033703098772,
+    "frequency": 1.308046673605722
+  },
+  {
+    "case_id": "decrease_200_19422",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19422,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.02072585800116141,
+    "frequency": 1.3497860874507446
+  },
+  {
+    "case_id": "decrease_200_19422",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19422,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02072585800116141,
+    "frequency": 1.3497860874507446
+  },
+  {
+    "case_id": "decrease_200_19422",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19422,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.02072585800116141,
+    "frequency": 1.3497860874507446
+  },
+  {
+    "case_id": "decrease_200_19423",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19423,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": 0.01966029455461973,
+    "frequency": 1.3735027265896262
+  },
+  {
+    "case_id": "decrease_200_19423",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19423,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": 0.01966029455461973,
+    "frequency": 1.3735027265896262
+  },
+  {
+    "case_id": "decrease_200_19423",
+    "group": "decrease_200",
+    "kind": "sine",
+    "seed": 19423,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": 0.01966029455461973,
+    "frequency": 1.3735027265896262
+  },
+  {
+    "case_id": "decrease_220_19400",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19400,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.019491367183770904,
+    "frequency": 1.3492162191566666
+  },
+  {
+    "case_id": "decrease_220_19400",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19400,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019491367183770904,
+    "frequency": 1.3492162191566666
+  },
+  {
+    "case_id": "decrease_220_19400",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19400,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.019491367183770904,
+    "frequency": 1.3492162191566666
+  },
+  {
+    "case_id": "decrease_220_19401",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19401,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.01919244355381937,
+    "frequency": 1.4948702588927179
+  },
+  {
+    "case_id": "decrease_220_19401",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19401,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.01919244355381937,
+    "frequency": 1.4948702588927179
+  },
+  {
+    "case_id": "decrease_220_19401",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19401,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.01919244355381937,
+    "frequency": 1.4948702588927179
+  },
+  {
+    "case_id": "decrease_220_19402",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19402,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.020630898083649273,
+    "frequency": 1.3592876427236877
+  },
+  {
+    "case_id": "decrease_220_19402",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19402,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020630898083649273,
+    "frequency": 1.3592876427236877
+  },
+  {
+    "case_id": "decrease_220_19402",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19402,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.020630898083649273,
+    "frequency": 1.3592876427236877
+  },
+  {
+    "case_id": "decrease_220_19403",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19403,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.020734851568305908,
+    "frequency": 1.3956802540585398
+  },
+  {
+    "case_id": "decrease_220_19403",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19403,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020734851568305908,
+    "frequency": 1.3956802540585398
+  },
+  {
+    "case_id": "decrease_220_19403",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19403,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.020734851568305908,
+    "frequency": 1.3956802540585398
+  },
+  {
+    "case_id": "decrease_220_19404",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19404,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.020653797747410083,
+    "frequency": 1.315762870029829
+  },
+  {
+    "case_id": "decrease_220_19404",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19404,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020653797747410083,
+    "frequency": 1.315762870029829
+  },
+  {
+    "case_id": "decrease_220_19404",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19404,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.020653797747410083,
+    "frequency": 1.315762870029829
+  },
+  {
+    "case_id": "decrease_220_19405",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19405,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.02053524011938878,
+    "frequency": 1.4113971265286882
+  },
+  {
+    "case_id": "decrease_220_19405",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19405,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02053524011938878,
+    "frequency": 1.4113971265286882
+  },
+  {
+    "case_id": "decrease_220_19405",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19405,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.02053524011938878,
+    "frequency": 1.4113971265286882
+  },
+  {
+    "case_id": "decrease_220_19406",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19406,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.019496286133847764,
+    "frequency": 1.4880291952134237
+  },
+  {
+    "case_id": "decrease_220_19406",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19406,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019496286133847764,
+    "frequency": 1.4880291952134237
+  },
+  {
+    "case_id": "decrease_220_19406",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19406,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.019496286133847764,
+    "frequency": 1.4880291952134237
+  },
+  {
+    "case_id": "decrease_220_19407",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19407,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.019770688623329626,
+    "frequency": 1.4841562007242657
+  },
+  {
+    "case_id": "decrease_220_19407",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19407,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019770688623329626,
+    "frequency": 1.4841562007242657
+  },
+  {
+    "case_id": "decrease_220_19407",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19407,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.019770688623329626,
+    "frequency": 1.4841562007242657
+  },
+  {
+    "case_id": "decrease_220_19408",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19408,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.020219038073254106,
+    "frequency": 1.3170971328126881
+  },
+  {
+    "case_id": "decrease_220_19408",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19408,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020219038073254106,
+    "frequency": 1.3170971328126881
+  },
+  {
+    "case_id": "decrease_220_19408",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19408,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.020219038073254106,
+    "frequency": 1.3170971328126881
+  },
+  {
+    "case_id": "decrease_220_19409",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19409,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.019209218411049608,
+    "frequency": 1.4247735391779364
+  },
+  {
+    "case_id": "decrease_220_19409",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19409,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019209218411049608,
+    "frequency": 1.4247735391779364
+  },
+  {
+    "case_id": "decrease_220_19409",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19409,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.019209218411049608,
+    "frequency": 1.4247735391779364
+  },
+  {
+    "case_id": "decrease_220_19410",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19410,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.019901551240117388,
+    "frequency": 1.453266341574523
+  },
+  {
+    "case_id": "decrease_220_19410",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19410,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019901551240117388,
+    "frequency": 1.453266341574523
+  },
+  {
+    "case_id": "decrease_220_19410",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19410,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.019901551240117388,
+    "frequency": 1.453266341574523
+  },
+  {
+    "case_id": "decrease_220_19411",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19411,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.019152981034855514,
+    "frequency": 1.497219946664333
+  },
+  {
+    "case_id": "decrease_220_19411",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19411,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019152981034855514,
+    "frequency": 1.497219946664333
+  },
+  {
+    "case_id": "decrease_220_19411",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19411,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.019152981034855514,
+    "frequency": 1.497219946664333
+  },
+  {
+    "case_id": "decrease_220_19412",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19412,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.020533249388522877,
+    "frequency": 1.3071462190642356
+  },
+  {
+    "case_id": "decrease_220_19412",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19412,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020533249388522877,
+    "frequency": 1.3071462190642356
+  },
+  {
+    "case_id": "decrease_220_19412",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19412,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.020533249388522877,
+    "frequency": 1.3071462190642356
+  },
+  {
+    "case_id": "decrease_220_19413",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19413,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.020814909913030966,
+    "frequency": 1.4468922125108736
+  },
+  {
+    "case_id": "decrease_220_19413",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19413,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020814909913030966,
+    "frequency": 1.4468922125108736
+  },
+  {
+    "case_id": "decrease_220_19413",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19413,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.020814909913030966,
+    "frequency": 1.4468922125108736
+  },
+  {
+    "case_id": "decrease_220_19414",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19414,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.02028073395896863,
+    "frequency": 1.4437557534696726
+  },
+  {
+    "case_id": "decrease_220_19414",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19414,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02028073395896863,
+    "frequency": 1.4437557534696726
+  },
+  {
+    "case_id": "decrease_220_19414",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19414,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.02028073395896863,
+    "frequency": 1.4437557534696726
+  },
+  {
+    "case_id": "decrease_220_19415",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19415,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.01958071976532709,
+    "frequency": 1.368543209974679
+  },
+  {
+    "case_id": "decrease_220_19415",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19415,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.01958071976532709,
+    "frequency": 1.368543209974679
+  },
+  {
+    "case_id": "decrease_220_19415",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19415,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.01958071976532709,
+    "frequency": 1.368543209974679
+  },
+  {
+    "case_id": "decrease_220_19416",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19416,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.020358552091177748,
+    "frequency": 1.3613810835092424
+  },
+  {
+    "case_id": "decrease_220_19416",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19416,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020358552091177748,
+    "frequency": 1.3613810835092424
+  },
+  {
+    "case_id": "decrease_220_19416",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19416,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.020358552091177748,
+    "frequency": 1.3613810835092424
+  },
+  {
+    "case_id": "decrease_220_19417",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19417,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.019334622094721778,
+    "frequency": 1.4416700541029503
+  },
+  {
+    "case_id": "decrease_220_19417",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19417,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019334622094721778,
+    "frequency": 1.4416700541029503
+  },
+  {
+    "case_id": "decrease_220_19417",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19417,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.019334622094721778,
+    "frequency": 1.4416700541029503
+  },
+  {
+    "case_id": "decrease_220_19418",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19418,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.020632112574195793,
+    "frequency": 1.3246117844781664
+  },
+  {
+    "case_id": "decrease_220_19418",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19418,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020632112574195793,
+    "frequency": 1.3246117844781664
+  },
+  {
+    "case_id": "decrease_220_19418",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19418,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.020632112574195793,
+    "frequency": 1.3246117844781664
+  },
+  {
+    "case_id": "decrease_220_19419",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19419,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.0193459870202431,
+    "frequency": 1.372129173688994
+  },
+  {
+    "case_id": "decrease_220_19419",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19419,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.0193459870202431,
+    "frequency": 1.372129173688994
+  },
+  {
+    "case_id": "decrease_220_19419",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19419,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.0193459870202431,
+    "frequency": 1.372129173688994
+  },
+  {
+    "case_id": "decrease_220_19420",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19420,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.020889379411167912,
+    "frequency": 1.4290069936044019
+  },
+  {
+    "case_id": "decrease_220_19420",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19420,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020889379411167912,
+    "frequency": 1.4290069936044019
+  },
+  {
+    "case_id": "decrease_220_19420",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19420,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.020889379411167912,
+    "frequency": 1.4290069936044019
+  },
+  {
+    "case_id": "decrease_220_19421",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19421,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.019422033703098772,
+    "frequency": 1.308046673605722
+  },
+  {
+    "case_id": "decrease_220_19421",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19421,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019422033703098772,
+    "frequency": 1.308046673605722
+  },
+  {
+    "case_id": "decrease_220_19421",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19421,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.019422033703098772,
+    "frequency": 1.308046673605722
+  },
+  {
+    "case_id": "decrease_220_19422",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19422,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.02072585800116141,
+    "frequency": 1.3497860874507446
+  },
+  {
+    "case_id": "decrease_220_19422",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19422,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02072585800116141,
+    "frequency": 1.3497860874507446
+  },
+  {
+    "case_id": "decrease_220_19422",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19422,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.02072585800116141,
+    "frequency": 1.3497860874507446
+  },
+  {
+    "case_id": "decrease_220_19423",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19423,
+    "mass": 220,
+    "mode": "NN_fixed",
+    "amplitude": 0.01966029455461973,
+    "frequency": 1.3735027265896262
+  },
+  {
+    "case_id": "decrease_220_19423",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19423,
+    "mass": 220,
+    "mode": "NN_adaptive",
+    "amplitude": 0.01966029455461973,
+    "frequency": 1.3735027265896262
+  },
+  {
+    "case_id": "decrease_220_19423",
+    "group": "decrease_220",
+    "kind": "sine",
+    "seed": 19423,
+    "mass": 220,
+    "mode": "NN_oracle",
+    "amplitude": 0.01966029455461973,
+    "frequency": 1.3735027265896262
+  },
+  {
+    "case_id": "decrease_240_19400",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19400,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.019491367183770904,
+    "frequency": 1.3492162191566666
+  },
+  {
+    "case_id": "decrease_240_19400",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19400,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019491367183770904,
+    "frequency": 1.3492162191566666
+  },
+  {
+    "case_id": "decrease_240_19400",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19400,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.019491367183770904,
+    "frequency": 1.3492162191566666
+  },
+  {
+    "case_id": "decrease_240_19401",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19401,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.01919244355381937,
+    "frequency": 1.4948702588927179
+  },
+  {
+    "case_id": "decrease_240_19401",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19401,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.01919244355381937,
+    "frequency": 1.4948702588927179
+  },
+  {
+    "case_id": "decrease_240_19401",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19401,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.01919244355381937,
+    "frequency": 1.4948702588927179
+  },
+  {
+    "case_id": "decrease_240_19402",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19402,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.020630898083649273,
+    "frequency": 1.3592876427236877
+  },
+  {
+    "case_id": "decrease_240_19402",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19402,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020630898083649273,
+    "frequency": 1.3592876427236877
+  },
+  {
+    "case_id": "decrease_240_19402",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19402,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.020630898083649273,
+    "frequency": 1.3592876427236877
+  },
+  {
+    "case_id": "decrease_240_19403",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19403,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.020734851568305908,
+    "frequency": 1.3956802540585398
+  },
+  {
+    "case_id": "decrease_240_19403",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19403,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020734851568305908,
+    "frequency": 1.3956802540585398
+  },
+  {
+    "case_id": "decrease_240_19403",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19403,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.020734851568305908,
+    "frequency": 1.3956802540585398
+  },
+  {
+    "case_id": "decrease_240_19404",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19404,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.020653797747410083,
+    "frequency": 1.315762870029829
+  },
+  {
+    "case_id": "decrease_240_19404",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19404,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020653797747410083,
+    "frequency": 1.315762870029829
+  },
+  {
+    "case_id": "decrease_240_19404",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19404,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.020653797747410083,
+    "frequency": 1.315762870029829
+  },
+  {
+    "case_id": "decrease_240_19405",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19405,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.02053524011938878,
+    "frequency": 1.4113971265286882
+  },
+  {
+    "case_id": "decrease_240_19405",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19405,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02053524011938878,
+    "frequency": 1.4113971265286882
+  },
+  {
+    "case_id": "decrease_240_19405",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19405,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.02053524011938878,
+    "frequency": 1.4113971265286882
+  },
+  {
+    "case_id": "decrease_240_19406",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19406,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.019496286133847764,
+    "frequency": 1.4880291952134237
+  },
+  {
+    "case_id": "decrease_240_19406",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19406,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019496286133847764,
+    "frequency": 1.4880291952134237
+  },
+  {
+    "case_id": "decrease_240_19406",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19406,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.019496286133847764,
+    "frequency": 1.4880291952134237
+  },
+  {
+    "case_id": "decrease_240_19407",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19407,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.019770688623329626,
+    "frequency": 1.4841562007242657
+  },
+  {
+    "case_id": "decrease_240_19407",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19407,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019770688623329626,
+    "frequency": 1.4841562007242657
+  },
+  {
+    "case_id": "decrease_240_19407",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19407,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.019770688623329626,
+    "frequency": 1.4841562007242657
+  },
+  {
+    "case_id": "decrease_240_19408",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19408,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.020219038073254106,
+    "frequency": 1.3170971328126881
+  },
+  {
+    "case_id": "decrease_240_19408",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19408,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020219038073254106,
+    "frequency": 1.3170971328126881
+  },
+  {
+    "case_id": "decrease_240_19408",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19408,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.020219038073254106,
+    "frequency": 1.3170971328126881
+  },
+  {
+    "case_id": "decrease_240_19409",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19409,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.019209218411049608,
+    "frequency": 1.4247735391779364
+  },
+  {
+    "case_id": "decrease_240_19409",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19409,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019209218411049608,
+    "frequency": 1.4247735391779364
+  },
+  {
+    "case_id": "decrease_240_19409",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19409,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.019209218411049608,
+    "frequency": 1.4247735391779364
+  },
+  {
+    "case_id": "decrease_240_19410",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19410,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.019901551240117388,
+    "frequency": 1.453266341574523
+  },
+  {
+    "case_id": "decrease_240_19410",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19410,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019901551240117388,
+    "frequency": 1.453266341574523
+  },
+  {
+    "case_id": "decrease_240_19410",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19410,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.019901551240117388,
+    "frequency": 1.453266341574523
+  },
+  {
+    "case_id": "decrease_240_19411",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19411,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.019152981034855514,
+    "frequency": 1.497219946664333
+  },
+  {
+    "case_id": "decrease_240_19411",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19411,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019152981034855514,
+    "frequency": 1.497219946664333
+  },
+  {
+    "case_id": "decrease_240_19411",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19411,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.019152981034855514,
+    "frequency": 1.497219946664333
+  },
+  {
+    "case_id": "decrease_240_19412",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19412,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.020533249388522877,
+    "frequency": 1.3071462190642356
+  },
+  {
+    "case_id": "decrease_240_19412",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19412,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020533249388522877,
+    "frequency": 1.3071462190642356
+  },
+  {
+    "case_id": "decrease_240_19412",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19412,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.020533249388522877,
+    "frequency": 1.3071462190642356
+  },
+  {
+    "case_id": "decrease_240_19413",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19413,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.020814909913030966,
+    "frequency": 1.4468922125108736
+  },
+  {
+    "case_id": "decrease_240_19413",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19413,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020814909913030966,
+    "frequency": 1.4468922125108736
+  },
+  {
+    "case_id": "decrease_240_19413",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19413,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.020814909913030966,
+    "frequency": 1.4468922125108736
+  },
+  {
+    "case_id": "decrease_240_19414",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19414,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.02028073395896863,
+    "frequency": 1.4437557534696726
+  },
+  {
+    "case_id": "decrease_240_19414",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19414,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02028073395896863,
+    "frequency": 1.4437557534696726
+  },
+  {
+    "case_id": "decrease_240_19414",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19414,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.02028073395896863,
+    "frequency": 1.4437557534696726
+  },
+  {
+    "case_id": "decrease_240_19415",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19415,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.01958071976532709,
+    "frequency": 1.368543209974679
+  },
+  {
+    "case_id": "decrease_240_19415",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19415,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.01958071976532709,
+    "frequency": 1.368543209974679
+  },
+  {
+    "case_id": "decrease_240_19415",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19415,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.01958071976532709,
+    "frequency": 1.368543209974679
+  },
+  {
+    "case_id": "decrease_240_19416",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19416,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.020358552091177748,
+    "frequency": 1.3613810835092424
+  },
+  {
+    "case_id": "decrease_240_19416",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19416,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020358552091177748,
+    "frequency": 1.3613810835092424
+  },
+  {
+    "case_id": "decrease_240_19416",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19416,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.020358552091177748,
+    "frequency": 1.3613810835092424
+  },
+  {
+    "case_id": "decrease_240_19417",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19417,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.019334622094721778,
+    "frequency": 1.4416700541029503
+  },
+  {
+    "case_id": "decrease_240_19417",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19417,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019334622094721778,
+    "frequency": 1.4416700541029503
+  },
+  {
+    "case_id": "decrease_240_19417",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19417,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.019334622094721778,
+    "frequency": 1.4416700541029503
+  },
+  {
+    "case_id": "decrease_240_19418",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19418,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.020632112574195793,
+    "frequency": 1.3246117844781664
+  },
+  {
+    "case_id": "decrease_240_19418",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19418,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020632112574195793,
+    "frequency": 1.3246117844781664
+  },
+  {
+    "case_id": "decrease_240_19418",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19418,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.020632112574195793,
+    "frequency": 1.3246117844781664
+  },
+  {
+    "case_id": "decrease_240_19419",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19419,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.0193459870202431,
+    "frequency": 1.372129173688994
+  },
+  {
+    "case_id": "decrease_240_19419",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19419,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.0193459870202431,
+    "frequency": 1.372129173688994
+  },
+  {
+    "case_id": "decrease_240_19419",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19419,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.0193459870202431,
+    "frequency": 1.372129173688994
+  },
+  {
+    "case_id": "decrease_240_19420",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19420,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.020889379411167912,
+    "frequency": 1.4290069936044019
+  },
+  {
+    "case_id": "decrease_240_19420",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19420,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.020889379411167912,
+    "frequency": 1.4290069936044019
+  },
+  {
+    "case_id": "decrease_240_19420",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19420,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.020889379411167912,
+    "frequency": 1.4290069936044019
+  },
+  {
+    "case_id": "decrease_240_19421",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19421,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.019422033703098772,
+    "frequency": 1.308046673605722
+  },
+  {
+    "case_id": "decrease_240_19421",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19421,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.019422033703098772,
+    "frequency": 1.308046673605722
+  },
+  {
+    "case_id": "decrease_240_19421",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19421,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.019422033703098772,
+    "frequency": 1.308046673605722
+  },
+  {
+    "case_id": "decrease_240_19422",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19422,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.02072585800116141,
+    "frequency": 1.3497860874507446
+  },
+  {
+    "case_id": "decrease_240_19422",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19422,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02072585800116141,
+    "frequency": 1.3497860874507446
+  },
+  {
+    "case_id": "decrease_240_19422",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19422,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.02072585800116141,
+    "frequency": 1.3497860874507446
+  },
+  {
+    "case_id": "decrease_240_19423",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19423,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": 0.01966029455461973,
+    "frequency": 1.3735027265896262
+  },
+  {
+    "case_id": "decrease_240_19423",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19423,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": 0.01966029455461973,
+    "frequency": 1.3735027265896262
+  },
+  {
+    "case_id": "decrease_240_19423",
+    "group": "decrease_240",
+    "kind": "sine",
+    "seed": 19423,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": 0.01966029455461973,
+    "frequency": 1.3735027265896262
+  },
+  {
+    "case_id": "increase_360_19500",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19500,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.024350172524297595,
+    "frequency": 0.671168924987189
+  },
+  {
+    "case_id": "increase_360_19500",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19500,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024350172524297595,
+    "frequency": 0.671168924987189
+  },
+  {
+    "case_id": "increase_360_19500",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19500,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.024350172524297595,
+    "frequency": 0.671168924987189
+  },
+  {
+    "case_id": "increase_360_19501",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19501,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.025745186881077582,
+    "frequency": 0.6407900405097504
+  },
+  {
+    "case_id": "increase_360_19501",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19501,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025745186881077582,
+    "frequency": 0.6407900405097504
+  },
+  {
+    "case_id": "increase_360_19501",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19501,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.025745186881077582,
+    "frequency": 0.6407900405097504
+  },
+  {
+    "case_id": "increase_360_19502",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19502,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.024688412506072413,
+    "frequency": 0.6751309161100244
+  },
+  {
+    "case_id": "increase_360_19502",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19502,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024688412506072413,
+    "frequency": 0.6751309161100244
+  },
+  {
+    "case_id": "increase_360_19502",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19502,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.024688412506072413,
+    "frequency": 0.6751309161100244
+  },
+  {
+    "case_id": "increase_360_19503",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19503,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.024340665421390874,
+    "frequency": 0.7329693535569174
+  },
+  {
+    "case_id": "increase_360_19503",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19503,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024340665421390874,
+    "frequency": 0.7329693535569174
+  },
+  {
+    "case_id": "increase_360_19503",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19503,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.024340665421390874,
+    "frequency": 0.7329693535569174
+  },
+  {
+    "case_id": "increase_360_19504",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19504,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.02446435724193382,
+    "frequency": 0.6746695724383576
+  },
+  {
+    "case_id": "increase_360_19504",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19504,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02446435724193382,
+    "frequency": 0.6746695724383576
+  },
+  {
+    "case_id": "increase_360_19504",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19504,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.02446435724193382,
+    "frequency": 0.6746695724383576
+  },
+  {
+    "case_id": "increase_360_19505",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19505,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.02467236305408946,
+    "frequency": 0.7243382589438114
+  },
+  {
+    "case_id": "increase_360_19505",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19505,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02467236305408946,
+    "frequency": 0.7243382589438114
+  },
+  {
+    "case_id": "increase_360_19505",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19505,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.02467236305408946,
+    "frequency": 0.7243382589438114
+  },
+  {
+    "case_id": "increase_360_19506",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19506,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.0249012986653576,
+    "frequency": 0.6993289017672311
+  },
+  {
+    "case_id": "increase_360_19506",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19506,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.0249012986653576,
+    "frequency": 0.6993289017672311
+  },
+  {
+    "case_id": "increase_360_19506",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19506,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.0249012986653576,
+    "frequency": 0.6993289017672311
+  },
+  {
+    "case_id": "increase_360_19507",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19507,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.02568792325646855,
+    "frequency": 0.7292860483942725
+  },
+  {
+    "case_id": "increase_360_19507",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19507,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02568792325646855,
+    "frequency": 0.7292860483942725
+  },
+  {
+    "case_id": "increase_360_19507",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19507,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.02568792325646855,
+    "frequency": 0.7292860483942725
+  },
+  {
+    "case_id": "increase_360_19508",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19508,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.0248230663186792,
+    "frequency": 0.645468655293972
+  },
+  {
+    "case_id": "increase_360_19508",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19508,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.0248230663186792,
+    "frequency": 0.645468655293972
+  },
+  {
+    "case_id": "increase_360_19508",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19508,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.0248230663186792,
+    "frequency": 0.645468655293972
+  },
+  {
+    "case_id": "increase_360_19509",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19509,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.02570719984933297,
+    "frequency": 0.6128195805334652
+  },
+  {
+    "case_id": "increase_360_19509",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19509,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02570719984933297,
+    "frequency": 0.6128195805334652
+  },
+  {
+    "case_id": "increase_360_19509",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19509,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.02570719984933297,
+    "frequency": 0.6128195805334652
+  },
+  {
+    "case_id": "increase_360_19510",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19510,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.025746399580391578,
+    "frequency": 0.6425101059889344
+  },
+  {
+    "case_id": "increase_360_19510",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19510,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025746399580391578,
+    "frequency": 0.6425101059889344
+  },
+  {
+    "case_id": "increase_360_19510",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19510,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.025746399580391578,
+    "frequency": 0.6425101059889344
+  },
+  {
+    "case_id": "increase_360_19511",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19511,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.025635972345086817,
+    "frequency": 0.6239958556619841
+  },
+  {
+    "case_id": "increase_360_19511",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19511,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025635972345086817,
+    "frequency": 0.6239958556619841
+  },
+  {
+    "case_id": "increase_360_19511",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19511,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.025635972345086817,
+    "frequency": 0.6239958556619841
+  },
+  {
+    "case_id": "increase_360_19512",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19512,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.02540029417583947,
+    "frequency": 0.794066841146081
+  },
+  {
+    "case_id": "increase_360_19512",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19512,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02540029417583947,
+    "frequency": 0.794066841146081
+  },
+  {
+    "case_id": "increase_360_19512",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19512,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.02540029417583947,
+    "frequency": 0.794066841146081
+  },
+  {
+    "case_id": "increase_360_19513",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19513,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.02461572181659633,
+    "frequency": 0.7401980289109542
+  },
+  {
+    "case_id": "increase_360_19513",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19513,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02461572181659633,
+    "frequency": 0.7401980289109542
+  },
+  {
+    "case_id": "increase_360_19513",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19513,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.02461572181659633,
+    "frequency": 0.7401980289109542
+  },
+  {
+    "case_id": "increase_360_19514",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19514,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.02551389227874591,
+    "frequency": 0.6327129632873691
+  },
+  {
+    "case_id": "increase_360_19514",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19514,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02551389227874591,
+    "frequency": 0.6327129632873691
+  },
+  {
+    "case_id": "increase_360_19514",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19514,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.02551389227874591,
+    "frequency": 0.6327129632873691
+  },
+  {
+    "case_id": "increase_360_19515",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19515,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.024147451898874277,
+    "frequency": 0.7893371584799109
+  },
+  {
+    "case_id": "increase_360_19515",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19515,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024147451898874277,
+    "frequency": 0.7893371584799109
+  },
+  {
+    "case_id": "increase_360_19515",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19515,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.024147451898874277,
+    "frequency": 0.7893371584799109
+  },
+  {
+    "case_id": "increase_360_19516",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19516,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.025181987346563715,
+    "frequency": 0.7700653578274513
+  },
+  {
+    "case_id": "increase_360_19516",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19516,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025181987346563715,
+    "frequency": 0.7700653578274513
+  },
+  {
+    "case_id": "increase_360_19516",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19516,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.025181987346563715,
+    "frequency": 0.7700653578274513
+  },
+  {
+    "case_id": "increase_360_19517",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19517,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.02558306768211113,
+    "frequency": 0.640485545614696
+  },
+  {
+    "case_id": "increase_360_19517",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19517,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02558306768211113,
+    "frequency": 0.640485545614696
+  },
+  {
+    "case_id": "increase_360_19517",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19517,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.02558306768211113,
+    "frequency": 0.640485545614696
+  },
+  {
+    "case_id": "increase_360_19518",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19518,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.024089359823876028,
+    "frequency": 0.7095090923532076
+  },
+  {
+    "case_id": "increase_360_19518",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19518,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024089359823876028,
+    "frequency": 0.7095090923532076
+  },
+  {
+    "case_id": "increase_360_19518",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19518,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.024089359823876028,
+    "frequency": 0.7095090923532076
+  },
+  {
+    "case_id": "increase_360_19519",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19519,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.025427312137545104,
+    "frequency": 0.6701389109086364
+  },
+  {
+    "case_id": "increase_360_19519",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19519,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025427312137545104,
+    "frequency": 0.6701389109086364
+  },
+  {
+    "case_id": "increase_360_19519",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19519,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.025427312137545104,
+    "frequency": 0.6701389109086364
+  },
+  {
+    "case_id": "increase_360_19520",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19520,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.025287350269104943,
+    "frequency": 0.6693530207050504
+  },
+  {
+    "case_id": "increase_360_19520",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19520,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025287350269104943,
+    "frequency": 0.6693530207050504
+  },
+  {
+    "case_id": "increase_360_19520",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19520,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.025287350269104943,
+    "frequency": 0.6693530207050504
+  },
+  {
+    "case_id": "increase_360_19521",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19521,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.025588412300556748,
+    "frequency": 0.7417992313382544
+  },
+  {
+    "case_id": "increase_360_19521",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19521,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025588412300556748,
+    "frequency": 0.7417992313382544
+  },
+  {
+    "case_id": "increase_360_19521",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19521,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.025588412300556748,
+    "frequency": 0.7417992313382544
+  },
+  {
+    "case_id": "increase_360_19522",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19522,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.025824242659114212,
+    "frequency": 0.64979727946274
+  },
+  {
+    "case_id": "increase_360_19522",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19522,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025824242659114212,
+    "frequency": 0.64979727946274
+  },
+  {
+    "case_id": "increase_360_19522",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19522,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.025824242659114212,
+    "frequency": 0.64979727946274
+  },
+  {
+    "case_id": "increase_360_19523",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19523,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": 0.02455068226535145,
+    "frequency": 0.6348375303591426
+  },
+  {
+    "case_id": "increase_360_19523",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19523,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02455068226535145,
+    "frequency": 0.6348375303591426
+  },
+  {
+    "case_id": "increase_360_19523",
+    "group": "increase_360",
+    "kind": "sine",
+    "seed": 19523,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": 0.02455068226535145,
+    "frequency": 0.6348375303591426
+  },
+  {
+    "case_id": "increase_400_19500",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19500,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.024350172524297595,
+    "frequency": 0.671168924987189
+  },
+  {
+    "case_id": "increase_400_19500",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19500,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024350172524297595,
+    "frequency": 0.671168924987189
+  },
+  {
+    "case_id": "increase_400_19500",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19500,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.024350172524297595,
+    "frequency": 0.671168924987189
+  },
+  {
+    "case_id": "increase_400_19501",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19501,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.025745186881077582,
+    "frequency": 0.6407900405097504
+  },
+  {
+    "case_id": "increase_400_19501",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19501,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025745186881077582,
+    "frequency": 0.6407900405097504
+  },
+  {
+    "case_id": "increase_400_19501",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19501,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.025745186881077582,
+    "frequency": 0.6407900405097504
+  },
+  {
+    "case_id": "increase_400_19502",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19502,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.024688412506072413,
+    "frequency": 0.6751309161100244
+  },
+  {
+    "case_id": "increase_400_19502",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19502,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024688412506072413,
+    "frequency": 0.6751309161100244
+  },
+  {
+    "case_id": "increase_400_19502",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19502,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.024688412506072413,
+    "frequency": 0.6751309161100244
+  },
+  {
+    "case_id": "increase_400_19503",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19503,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.024340665421390874,
+    "frequency": 0.7329693535569174
+  },
+  {
+    "case_id": "increase_400_19503",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19503,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024340665421390874,
+    "frequency": 0.7329693535569174
+  },
+  {
+    "case_id": "increase_400_19503",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19503,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.024340665421390874,
+    "frequency": 0.7329693535569174
+  },
+  {
+    "case_id": "increase_400_19504",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19504,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.02446435724193382,
+    "frequency": 0.6746695724383576
+  },
+  {
+    "case_id": "increase_400_19504",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19504,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02446435724193382,
+    "frequency": 0.6746695724383576
+  },
+  {
+    "case_id": "increase_400_19504",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19504,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.02446435724193382,
+    "frequency": 0.6746695724383576
+  },
+  {
+    "case_id": "increase_400_19505",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19505,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.02467236305408946,
+    "frequency": 0.7243382589438114
+  },
+  {
+    "case_id": "increase_400_19505",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19505,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02467236305408946,
+    "frequency": 0.7243382589438114
+  },
+  {
+    "case_id": "increase_400_19505",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19505,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.02467236305408946,
+    "frequency": 0.7243382589438114
+  },
+  {
+    "case_id": "increase_400_19506",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19506,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.0249012986653576,
+    "frequency": 0.6993289017672311
+  },
+  {
+    "case_id": "increase_400_19506",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19506,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.0249012986653576,
+    "frequency": 0.6993289017672311
+  },
+  {
+    "case_id": "increase_400_19506",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19506,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.0249012986653576,
+    "frequency": 0.6993289017672311
+  },
+  {
+    "case_id": "increase_400_19507",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19507,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.02568792325646855,
+    "frequency": 0.7292860483942725
+  },
+  {
+    "case_id": "increase_400_19507",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19507,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02568792325646855,
+    "frequency": 0.7292860483942725
+  },
+  {
+    "case_id": "increase_400_19507",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19507,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.02568792325646855,
+    "frequency": 0.7292860483942725
+  },
+  {
+    "case_id": "increase_400_19508",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19508,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.0248230663186792,
+    "frequency": 0.645468655293972
+  },
+  {
+    "case_id": "increase_400_19508",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19508,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.0248230663186792,
+    "frequency": 0.645468655293972
+  },
+  {
+    "case_id": "increase_400_19508",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19508,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.0248230663186792,
+    "frequency": 0.645468655293972
+  },
+  {
+    "case_id": "increase_400_19509",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19509,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.02570719984933297,
+    "frequency": 0.6128195805334652
+  },
+  {
+    "case_id": "increase_400_19509",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19509,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02570719984933297,
+    "frequency": 0.6128195805334652
+  },
+  {
+    "case_id": "increase_400_19509",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19509,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.02570719984933297,
+    "frequency": 0.6128195805334652
+  },
+  {
+    "case_id": "increase_400_19510",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19510,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.025746399580391578,
+    "frequency": 0.6425101059889344
+  },
+  {
+    "case_id": "increase_400_19510",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19510,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025746399580391578,
+    "frequency": 0.6425101059889344
+  },
+  {
+    "case_id": "increase_400_19510",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19510,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.025746399580391578,
+    "frequency": 0.6425101059889344
+  },
+  {
+    "case_id": "increase_400_19511",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19511,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.025635972345086817,
+    "frequency": 0.6239958556619841
+  },
+  {
+    "case_id": "increase_400_19511",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19511,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025635972345086817,
+    "frequency": 0.6239958556619841
+  },
+  {
+    "case_id": "increase_400_19511",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19511,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.025635972345086817,
+    "frequency": 0.6239958556619841
+  },
+  {
+    "case_id": "increase_400_19512",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19512,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.02540029417583947,
+    "frequency": 0.794066841146081
+  },
+  {
+    "case_id": "increase_400_19512",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19512,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02540029417583947,
+    "frequency": 0.794066841146081
+  },
+  {
+    "case_id": "increase_400_19512",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19512,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.02540029417583947,
+    "frequency": 0.794066841146081
+  },
+  {
+    "case_id": "increase_400_19513",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19513,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.02461572181659633,
+    "frequency": 0.7401980289109542
+  },
+  {
+    "case_id": "increase_400_19513",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19513,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02461572181659633,
+    "frequency": 0.7401980289109542
+  },
+  {
+    "case_id": "increase_400_19513",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19513,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.02461572181659633,
+    "frequency": 0.7401980289109542
+  },
+  {
+    "case_id": "increase_400_19514",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19514,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.02551389227874591,
+    "frequency": 0.6327129632873691
+  },
+  {
+    "case_id": "increase_400_19514",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19514,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02551389227874591,
+    "frequency": 0.6327129632873691
+  },
+  {
+    "case_id": "increase_400_19514",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19514,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.02551389227874591,
+    "frequency": 0.6327129632873691
+  },
+  {
+    "case_id": "increase_400_19515",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19515,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.024147451898874277,
+    "frequency": 0.7893371584799109
+  },
+  {
+    "case_id": "increase_400_19515",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19515,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024147451898874277,
+    "frequency": 0.7893371584799109
+  },
+  {
+    "case_id": "increase_400_19515",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19515,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.024147451898874277,
+    "frequency": 0.7893371584799109
+  },
+  {
+    "case_id": "increase_400_19516",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19516,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.025181987346563715,
+    "frequency": 0.7700653578274513
+  },
+  {
+    "case_id": "increase_400_19516",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19516,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025181987346563715,
+    "frequency": 0.7700653578274513
+  },
+  {
+    "case_id": "increase_400_19516",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19516,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.025181987346563715,
+    "frequency": 0.7700653578274513
+  },
+  {
+    "case_id": "increase_400_19517",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19517,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.02558306768211113,
+    "frequency": 0.640485545614696
+  },
+  {
+    "case_id": "increase_400_19517",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19517,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02558306768211113,
+    "frequency": 0.640485545614696
+  },
+  {
+    "case_id": "increase_400_19517",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19517,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.02558306768211113,
+    "frequency": 0.640485545614696
+  },
+  {
+    "case_id": "increase_400_19518",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19518,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.024089359823876028,
+    "frequency": 0.7095090923532076
+  },
+  {
+    "case_id": "increase_400_19518",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19518,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024089359823876028,
+    "frequency": 0.7095090923532076
+  },
+  {
+    "case_id": "increase_400_19518",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19518,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.024089359823876028,
+    "frequency": 0.7095090923532076
+  },
+  {
+    "case_id": "increase_400_19519",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19519,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.025427312137545104,
+    "frequency": 0.6701389109086364
+  },
+  {
+    "case_id": "increase_400_19519",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19519,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025427312137545104,
+    "frequency": 0.6701389109086364
+  },
+  {
+    "case_id": "increase_400_19519",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19519,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.025427312137545104,
+    "frequency": 0.6701389109086364
+  },
+  {
+    "case_id": "increase_400_19520",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19520,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.025287350269104943,
+    "frequency": 0.6693530207050504
+  },
+  {
+    "case_id": "increase_400_19520",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19520,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025287350269104943,
+    "frequency": 0.6693530207050504
+  },
+  {
+    "case_id": "increase_400_19520",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19520,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.025287350269104943,
+    "frequency": 0.6693530207050504
+  },
+  {
+    "case_id": "increase_400_19521",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19521,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.025588412300556748,
+    "frequency": 0.7417992313382544
+  },
+  {
+    "case_id": "increase_400_19521",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19521,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025588412300556748,
+    "frequency": 0.7417992313382544
+  },
+  {
+    "case_id": "increase_400_19521",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19521,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.025588412300556748,
+    "frequency": 0.7417992313382544
+  },
+  {
+    "case_id": "increase_400_19522",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19522,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.025824242659114212,
+    "frequency": 0.64979727946274
+  },
+  {
+    "case_id": "increase_400_19522",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19522,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025824242659114212,
+    "frequency": 0.64979727946274
+  },
+  {
+    "case_id": "increase_400_19522",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19522,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.025824242659114212,
+    "frequency": 0.64979727946274
+  },
+  {
+    "case_id": "increase_400_19523",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19523,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": 0.02455068226535145,
+    "frequency": 0.6348375303591426
+  },
+  {
+    "case_id": "increase_400_19523",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19523,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02455068226535145,
+    "frequency": 0.6348375303591426
+  },
+  {
+    "case_id": "increase_400_19523",
+    "group": "increase_400",
+    "kind": "sine",
+    "seed": 19523,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": 0.02455068226535145,
+    "frequency": 0.6348375303591426
+  },
+  {
+    "case_id": "increase_420_19500",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19500,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.024350172524297595,
+    "frequency": 0.671168924987189
+  },
+  {
+    "case_id": "increase_420_19500",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19500,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024350172524297595,
+    "frequency": 0.671168924987189
+  },
+  {
+    "case_id": "increase_420_19500",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19500,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.024350172524297595,
+    "frequency": 0.671168924987189
+  },
+  {
+    "case_id": "increase_420_19501",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19501,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.025745186881077582,
+    "frequency": 0.6407900405097504
+  },
+  {
+    "case_id": "increase_420_19501",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19501,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025745186881077582,
+    "frequency": 0.6407900405097504
+  },
+  {
+    "case_id": "increase_420_19501",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19501,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.025745186881077582,
+    "frequency": 0.6407900405097504
+  },
+  {
+    "case_id": "increase_420_19502",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19502,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.024688412506072413,
+    "frequency": 0.6751309161100244
+  },
+  {
+    "case_id": "increase_420_19502",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19502,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024688412506072413,
+    "frequency": 0.6751309161100244
+  },
+  {
+    "case_id": "increase_420_19502",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19502,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.024688412506072413,
+    "frequency": 0.6751309161100244
+  },
+  {
+    "case_id": "increase_420_19503",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19503,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.024340665421390874,
+    "frequency": 0.7329693535569174
+  },
+  {
+    "case_id": "increase_420_19503",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19503,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024340665421390874,
+    "frequency": 0.7329693535569174
+  },
+  {
+    "case_id": "increase_420_19503",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19503,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.024340665421390874,
+    "frequency": 0.7329693535569174
+  },
+  {
+    "case_id": "increase_420_19504",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19504,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.02446435724193382,
+    "frequency": 0.6746695724383576
+  },
+  {
+    "case_id": "increase_420_19504",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19504,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02446435724193382,
+    "frequency": 0.6746695724383576
+  },
+  {
+    "case_id": "increase_420_19504",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19504,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.02446435724193382,
+    "frequency": 0.6746695724383576
+  },
+  {
+    "case_id": "increase_420_19505",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19505,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.02467236305408946,
+    "frequency": 0.7243382589438114
+  },
+  {
+    "case_id": "increase_420_19505",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19505,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02467236305408946,
+    "frequency": 0.7243382589438114
+  },
+  {
+    "case_id": "increase_420_19505",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19505,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.02467236305408946,
+    "frequency": 0.7243382589438114
+  },
+  {
+    "case_id": "increase_420_19506",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19506,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.0249012986653576,
+    "frequency": 0.6993289017672311
+  },
+  {
+    "case_id": "increase_420_19506",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19506,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.0249012986653576,
+    "frequency": 0.6993289017672311
+  },
+  {
+    "case_id": "increase_420_19506",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19506,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.0249012986653576,
+    "frequency": 0.6993289017672311
+  },
+  {
+    "case_id": "increase_420_19507",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19507,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.02568792325646855,
+    "frequency": 0.7292860483942725
+  },
+  {
+    "case_id": "increase_420_19507",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19507,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02568792325646855,
+    "frequency": 0.7292860483942725
+  },
+  {
+    "case_id": "increase_420_19507",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19507,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.02568792325646855,
+    "frequency": 0.7292860483942725
+  },
+  {
+    "case_id": "increase_420_19508",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19508,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.0248230663186792,
+    "frequency": 0.645468655293972
+  },
+  {
+    "case_id": "increase_420_19508",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19508,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.0248230663186792,
+    "frequency": 0.645468655293972
+  },
+  {
+    "case_id": "increase_420_19508",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19508,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.0248230663186792,
+    "frequency": 0.645468655293972
+  },
+  {
+    "case_id": "increase_420_19509",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19509,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.02570719984933297,
+    "frequency": 0.6128195805334652
+  },
+  {
+    "case_id": "increase_420_19509",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19509,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02570719984933297,
+    "frequency": 0.6128195805334652
+  },
+  {
+    "case_id": "increase_420_19509",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19509,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.02570719984933297,
+    "frequency": 0.6128195805334652
+  },
+  {
+    "case_id": "increase_420_19510",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19510,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.025746399580391578,
+    "frequency": 0.6425101059889344
+  },
+  {
+    "case_id": "increase_420_19510",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19510,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025746399580391578,
+    "frequency": 0.6425101059889344
+  },
+  {
+    "case_id": "increase_420_19510",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19510,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.025746399580391578,
+    "frequency": 0.6425101059889344
+  },
+  {
+    "case_id": "increase_420_19511",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19511,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.025635972345086817,
+    "frequency": 0.6239958556619841
+  },
+  {
+    "case_id": "increase_420_19511",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19511,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025635972345086817,
+    "frequency": 0.6239958556619841
+  },
+  {
+    "case_id": "increase_420_19511",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19511,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.025635972345086817,
+    "frequency": 0.6239958556619841
+  },
+  {
+    "case_id": "increase_420_19512",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19512,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.02540029417583947,
+    "frequency": 0.794066841146081
+  },
+  {
+    "case_id": "increase_420_19512",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19512,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02540029417583947,
+    "frequency": 0.794066841146081
+  },
+  {
+    "case_id": "increase_420_19512",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19512,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.02540029417583947,
+    "frequency": 0.794066841146081
+  },
+  {
+    "case_id": "increase_420_19513",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19513,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.02461572181659633,
+    "frequency": 0.7401980289109542
+  },
+  {
+    "case_id": "increase_420_19513",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19513,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02461572181659633,
+    "frequency": 0.7401980289109542
+  },
+  {
+    "case_id": "increase_420_19513",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19513,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.02461572181659633,
+    "frequency": 0.7401980289109542
+  },
+  {
+    "case_id": "increase_420_19514",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19514,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.02551389227874591,
+    "frequency": 0.6327129632873691
+  },
+  {
+    "case_id": "increase_420_19514",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19514,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02551389227874591,
+    "frequency": 0.6327129632873691
+  },
+  {
+    "case_id": "increase_420_19514",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19514,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.02551389227874591,
+    "frequency": 0.6327129632873691
+  },
+  {
+    "case_id": "increase_420_19515",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19515,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.024147451898874277,
+    "frequency": 0.7893371584799109
+  },
+  {
+    "case_id": "increase_420_19515",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19515,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024147451898874277,
+    "frequency": 0.7893371584799109
+  },
+  {
+    "case_id": "increase_420_19515",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19515,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.024147451898874277,
+    "frequency": 0.7893371584799109
+  },
+  {
+    "case_id": "increase_420_19516",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19516,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.025181987346563715,
+    "frequency": 0.7700653578274513
+  },
+  {
+    "case_id": "increase_420_19516",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19516,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025181987346563715,
+    "frequency": 0.7700653578274513
+  },
+  {
+    "case_id": "increase_420_19516",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19516,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.025181987346563715,
+    "frequency": 0.7700653578274513
+  },
+  {
+    "case_id": "increase_420_19517",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19517,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.02558306768211113,
+    "frequency": 0.640485545614696
+  },
+  {
+    "case_id": "increase_420_19517",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19517,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02558306768211113,
+    "frequency": 0.640485545614696
+  },
+  {
+    "case_id": "increase_420_19517",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19517,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.02558306768211113,
+    "frequency": 0.640485545614696
+  },
+  {
+    "case_id": "increase_420_19518",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19518,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.024089359823876028,
+    "frequency": 0.7095090923532076
+  },
+  {
+    "case_id": "increase_420_19518",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19518,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.024089359823876028,
+    "frequency": 0.7095090923532076
+  },
+  {
+    "case_id": "increase_420_19518",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19518,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.024089359823876028,
+    "frequency": 0.7095090923532076
+  },
+  {
+    "case_id": "increase_420_19519",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19519,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.025427312137545104,
+    "frequency": 0.6701389109086364
+  },
+  {
+    "case_id": "increase_420_19519",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19519,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025427312137545104,
+    "frequency": 0.6701389109086364
+  },
+  {
+    "case_id": "increase_420_19519",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19519,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.025427312137545104,
+    "frequency": 0.6701389109086364
+  },
+  {
+    "case_id": "increase_420_19520",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19520,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.025287350269104943,
+    "frequency": 0.6693530207050504
+  },
+  {
+    "case_id": "increase_420_19520",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19520,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025287350269104943,
+    "frequency": 0.6693530207050504
+  },
+  {
+    "case_id": "increase_420_19520",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19520,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.025287350269104943,
+    "frequency": 0.6693530207050504
+  },
+  {
+    "case_id": "increase_420_19521",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19521,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.025588412300556748,
+    "frequency": 0.7417992313382544
+  },
+  {
+    "case_id": "increase_420_19521",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19521,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025588412300556748,
+    "frequency": 0.7417992313382544
+  },
+  {
+    "case_id": "increase_420_19521",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19521,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.025588412300556748,
+    "frequency": 0.7417992313382544
+  },
+  {
+    "case_id": "increase_420_19522",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19522,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.025824242659114212,
+    "frequency": 0.64979727946274
+  },
+  {
+    "case_id": "increase_420_19522",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19522,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.025824242659114212,
+    "frequency": 0.64979727946274
+  },
+  {
+    "case_id": "increase_420_19522",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19522,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.025824242659114212,
+    "frequency": 0.64979727946274
+  },
+  {
+    "case_id": "increase_420_19523",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19523,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": 0.02455068226535145,
+    "frequency": 0.6348375303591426
+  },
+  {
+    "case_id": "increase_420_19523",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19523,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": 0.02455068226535145,
+    "frequency": 0.6348375303591426
+  },
+  {
+    "case_id": "increase_420_19523",
+    "group": "increase_420",
+    "kind": "sine",
+    "seed": 19523,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": 0.02455068226535145,
+    "frequency": 0.6348375303591426
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "cases": 96,
+  "trajectories": 288,
+  "reused_reference_trajectories": 0,
+  "max_transition_residual": 4.440892098500626e-16,
+  "all_force_bounds_pass": true,
+  "all_causal_estimator_replays_pass": true,
+  "minimum_contact_ratio": 0.2818164972480216
+}

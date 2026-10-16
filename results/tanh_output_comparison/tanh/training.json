@@ -1,0 +1,15 @@
+{
+  "activation": "tanh",
+  "epochs": 1100,
+  "best_epoch": 507,
+  "seconds": 45.886162415961735,
+  "validation": {
+    "action_rmse_N": 3.921320022642494,
+    "nominal_rmse_N": 3.9021214786707596,
+    "mass_delta_rmse_N": 1.1881700118699192,
+    "saturation_mae_N": 1.278140332344923,
+    "raw_over_pct": 0.0,
+    "applied_over_pct": 0.0,
+    "loss": 0.00018503495087676702
+  }
+}

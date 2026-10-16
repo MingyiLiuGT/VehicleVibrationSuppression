@@ -1,0 +1,184 @@
+{
+  "raw_exceedance_definition": "max(abs(raw force)-500 N,0); conditional mean uses exceeding samples only",
+  "raw_exceedance": {
+    "heldout_seed_33": {
+      "samples": 8000,
+      "exceeding_samples": 1379,
+      "raw_over_pct": 17.2375,
+      "conditional_mean_excess_N": 4.877672845336958,
+      "maximum_excess_N": 45.845761628536934,
+      "maximum_raw_force_N": 545.8457616285369
+    },
+    "in_domain": {
+      "samples": 4800,
+      "exceeding_samples": 1478,
+      "raw_over_pct": 30.791666666666668,
+      "conditional_mean_excess_N": 2.451048159998984,
+      "maximum_excess_N": 10.347275728015404,
+      "maximum_raw_force_N": 510.3472757280154
+    },
+    "unseen_sine": {
+      "samples": 4800,
+      "exceeding_samples": 2976,
+      "raw_over_pct": 62.0,
+      "conditional_mean_excess_N": 6.358058235974494,
+      "maximum_excess_N": 28.260171961758033,
+      "maximum_raw_force_N": 528.260171961758
+    },
+    "unseen_mass": {
+      "samples": 4800,
+      "exceeding_samples": 613,
+      "raw_over_pct": 12.770833333333334,
+      "conditional_mean_excess_N": 4.805594556324989,
+      "maximum_excess_N": 26.83490984680725,
+      "maximum_raw_force_N": 526.8349098468072
+    },
+    "bump": {
+      "samples": 4800,
+      "exceeding_samples": 117,
+      "raw_over_pct": 2.4375,
+      "conditional_mean_excess_N": 10.396315750616537,
+      "maximum_excess_N": 42.258754001350326,
+      "maximum_raw_force_N": 542.2587540013503
+    },
+    "preview_noise": {
+      "samples": 4800,
+      "exceeding_samples": 410,
+      "raw_over_pct": 8.541666666666666,
+      "conditional_mean_excess_N": 20.694649277941124,
+      "maximum_excess_N": 106.67748050063881,
+      "maximum_raw_force_N": 606.6774805006388
+    },
+    "preview_delay": {
+      "samples": 4800,
+      "exceeding_samples": 571,
+      "raw_over_pct": 11.895833333333334,
+      "conditional_mean_excess_N": 9.120123018902007,
+      "maximum_excess_N": 79.8888367167724,
+      "maximum_raw_force_N": 579.8888367167724
+    },
+    "refined_paired": {
+      "samples": 32000,
+      "exceeding_samples": 6104,
+      "raw_over_pct": 19.075,
+      "conditional_mean_excess_N": 1.6586556314821883,
+      "maximum_excess_N": 46.53495500395786,
+      "maximum_raw_force_N": 546.5349550039579
+    }
+  },
+  "tracking_definition": "Mean absolute relative mass error per road, then arithmetic mean across roads; early 4\u20138 s, terminal 18\u201320 s, return terminal 22\u201324 s. No convergence-time claim.",
+  "mass_tracking": [
+    {
+      "kind": "sine",
+      "mass_kg": 200,
+      "roads": 12,
+      "early_error_pct": 23.313403854142134,
+      "terminal_error_pct": 19.781875025162705,
+      "return_terminal_error_pct": 3.965800028064803
+    },
+    {
+      "kind": "sine",
+      "mass_kg": 240,
+      "roads": 12,
+      "early_error_pct": 14.414693202713275,
+      "terminal_error_pct": 12.38577513070035,
+      "return_terminal_error_pct": 4.866653863073908
+    },
+    {
+      "kind": "sine",
+      "mass_kg": 360,
+      "roads": 12,
+      "early_error_pct": 10.365412738774813,
+      "terminal_error_pct": 9.399554807778758,
+      "return_terminal_error_pct": 4.0927462550182705
+    },
+    {
+      "kind": "sine",
+      "mass_kg": 420,
+      "roads": 12,
+      "early_error_pct": 14.977538124802455,
+      "terminal_error_pct": 12.77322013592248,
+      "return_terminal_error_pct": 4.632999653443813
+    },
+    {
+      "kind": "multisine",
+      "mass_kg": 200,
+      "roads": 12,
+      "early_error_pct": 10.688359334155194,
+      "terminal_error_pct": 2.0921354755333397,
+      "return_terminal_error_pct": 2.9288618814419123
+    },
+    {
+      "kind": "multisine",
+      "mass_kg": 240,
+      "roads": 12,
+      "early_error_pct": 6.10441579871305,
+      "terminal_error_pct": 2.5907814736769974,
+      "return_terminal_error_pct": 2.8027726450184054
+    },
+    {
+      "kind": "multisine",
+      "mass_kg": 360,
+      "roads": 12,
+      "early_error_pct": 5.0884757478537495,
+      "terminal_error_pct": 3.6145053775343214,
+      "return_terminal_error_pct": 2.722250451988884
+    },
+    {
+      "kind": "multisine",
+      "mass_kg": 420,
+      "roads": 12,
+      "early_error_pct": 7.601920251875387,
+      "terminal_error_pct": 3.553928184981641,
+      "return_terminal_error_pct": 3.095751782239962
+    }
+  ],
+  "representative_mass_tracking": {
+    "early_error_pct": 12.910847624748417,
+    "terminal_error_pct": 4.916690208783844
+  },
+  "bump": {
+    "FFPD": {
+      "acc_rms": 0.2985544326525554,
+      "acc_peak": 2.1315641092160122,
+      "travel_rms_mm": 4.324405059818131,
+      "tire_rms_N": 196.02281967905822,
+      "force_rms_N": 102.93481869782747,
+      "saturation_pct": 2.875
+    },
+    "MPC_no_preview": {
+      "acc_rms": 0.2586409864494409,
+      "acc_peak": 2.0738203736423406,
+      "travel_rms_mm": 10.616322703971596,
+      "tire_rms_N": 171.38427801393468,
+      "force_rms_N": 212.43225200983528,
+      "saturation_pct": 4.708333333333334
+    },
+    "MPC": {
+      "acc_rms": 0.21887375394874292,
+      "acc_peak": 1.6999514668224482,
+      "travel_rms_mm": 13.271546621908824,
+      "tire_rms_N": 157.9092541736062,
+      "force_rms_N": 274.19243195560114,
+      "saturation_pct": 6.166666666666667
+    },
+    "NN": {
+      "acc_rms": 0.22512963970230476,
+      "acc_peak": 1.7019801981195277,
+      "travel_rms_mm": 14.062796275828413,
+      "tire_rms_N": 157.1730477990252,
+      "force_rms_N": 290.29129713656175,
+      "saturation_pct": 3.166666666666667
+    }
+  },
+  "timing": {
+    "fixed_mpc_to_nn_mean_ratio": 3.40013828931103,
+    "adaptive_mpc_to_nn_mean_ratio": 16.20729324548453
+  },
+  "measured_road": {
+    "required_file": "code/quarter_car/w_all_reversed_1.npy",
+    "available": false,
+    "status": "Original local array remains absent. A new public P79 excerpt from the same source is revalidated with frozen quarter-car policies and a four-DOF half-car MPC; see road_halfcar/source/provenance.json.",
+    "public_excerpt_revalidated": true
+  }
+}

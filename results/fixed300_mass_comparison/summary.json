@@ -1,0 +1,107 @@
+{
+  "protocol": {
+    "policy": "existing mass-conditioned policy; mass input fixed at 300 kg",
+    "trained_mass_grid_kg": [
+      240,
+      300,
+      360,
+      420
+    ],
+    "plant_mass_kg": [
+      300,
+      200
+    ],
+    "road_seeds": {
+      "sine": [
+        4000,
+        4007
+      ],
+      "multisine": [
+        4200,
+        4207
+      ],
+      "bump": [
+        4300,
+        4307
+      ]
+    },
+    "duration_s": 6,
+    "dt_s": 0.01,
+    "force_limit_N": 500,
+    "preview_s": 0.3,
+    "initial_state": "zero",
+    "preview": "exact",
+    "model_sha256": "ebf716db7a7a442aca6fef6f8faeaa8d38f0a9d5f36092f864b95e90f37956af"
+  },
+  "summary": {
+    "sine": {
+      "acc_rms": {
+        "mean_300kg": 0.2096522194712051,
+        "mean_200kg": 0.2923702292171508,
+        "ratio_of_means_change_pct": 39.454869571417376,
+        "paired_change_min_pct": 12.211226416068131,
+        "paired_change_max_pct": 58.20962795347453
+      },
+      "acc_peak": {
+        "mean_300kg": 0.4217329378593283,
+        "mean_200kg": 0.5476546582063042,
+        "ratio_of_means_change_pct": 29.85816592513291,
+        "paired_change_min_pct": 21.490950575521445,
+        "paired_change_max_pct": 55.582651752026436
+      },
+      "saturation_pct": {
+        "mean_300kg": 38.291666666666664,
+        "mean_200kg": 36.8125,
+        "ratio_of_means_change_pct": -3.862894450489651,
+        "paired_change_min_pct": -16.66666666666667,
+        "paired_change_max_pct": -0.5780346820809167
+      }
+    },
+    "multisine": {
+      "acc_rms": {
+        "mean_300kg": 0.22914323410486293,
+        "mean_200kg": 0.3094862796287148,
+        "ratio_of_means_change_pct": 35.06236866984449,
+        "paired_change_min_pct": -4.495653236038069,
+        "paired_change_max_pct": 49.15320013058421
+      },
+      "acc_peak": {
+        "mean_300kg": 1.003770061379109,
+        "mean_200kg": 1.5060748790440595,
+        "ratio_of_means_change_pct": 50.04182102969072,
+        "paired_change_min_pct": 13.598117030619273,
+        "paired_change_max_pct": 59.59550443877409
+      },
+      "saturation_pct": {
+        "mean_300kg": 17.541666666666668,
+        "mean_200kg": 16.0625,
+        "ratio_of_means_change_pct": -8.432304038004757,
+        "paired_change_min_pct": -88.88888888888889,
+        "paired_change_max_pct": 1.7241379310344769
+      }
+    },
+    "bump": {
+      "acc_rms": {
+        "mean_300kg": 0.22512963970230476,
+        "mean_200kg": 0.30600321274117626,
+        "ratio_of_means_change_pct": 35.92311218807656,
+        "paired_change_min_pct": 23.0776196004673,
+        "paired_change_max_pct": 44.5959597298782
+      },
+      "acc_peak": {
+        "mean_300kg": 1.7019801981195277,
+        "mean_200kg": 2.446992098453011,
+        "ratio_of_means_change_pct": 43.77324137828553,
+        "paired_change_min_pct": 18.3116144177427,
+        "paired_change_max_pct": 53.135474932558544
+      },
+      "saturation_pct": {
+        "mean_300kg": 3.166666666666667,
+        "mean_200kg": 2.7083333333333335,
+        "ratio_of_means_change_pct": -14.473684210526317,
+        "paired_change_min_pct": -30.434782608695638,
+        "paired_change_max_pct": -4.999999999999996
+      }
+    }
+  }
+}

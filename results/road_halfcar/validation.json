@@ -1,0 +1,13 @@
+{
+  "independent_qps": 8,
+  "maximum_objective_difference": 2.42121586779831e-07,
+  "force_balance": true,
+  "zoh_vs_ode": true,
+  "lifted_predictions": true,
+  "trajectories": 80,
+  "maximum_state_residual": 3.3306690738754696e-16,
+  "maximum_projected_kkt_residual": 6.094684465163258e-07,
+  "minimum_contact_ratio": 0.6853469966810535,
+  "applied_force_bound_N": 500,
+  "quarter_neural_replay": true
+}

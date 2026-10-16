@@ -1,0 +1,4682 @@
+[
+  {
+    "case_id": "sine_200_19000",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19000",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19000",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19001",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19001",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19001",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19002",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19002",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19002",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19003",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19003",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19003",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19004",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19004",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19004",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19005",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19005",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_200_19005",
+    "group": "sine_200",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19000",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 225,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19000",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 225,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19000",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 225,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19001",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 225,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19001",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 225,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19001",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 225,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19002",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 225,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19002",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 225,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19002",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 225,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19003",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 225,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19003",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 225,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19003",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 225,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19004",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 225,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19004",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 225,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19004",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 225,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19005",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 225,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19005",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 225,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_225_19005",
+    "group": "sine_225",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 225,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19000",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19000",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19000",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19001",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19001",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19001",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19002",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19002",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19002",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19003",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19003",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19003",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19004",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19004",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19004",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19005",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19005",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_240_19005",
+    "group": "sine_240",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19000",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 250,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19000",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 250,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19000",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 250,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19001",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 250,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19001",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 250,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19001",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 250,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19002",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 250,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19002",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 250,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19002",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 250,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19003",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 250,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19003",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 250,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19003",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 250,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19004",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 250,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19004",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 250,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19004",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 250,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19005",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 250,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19005",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 250,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_250_19005",
+    "group": "sine_250",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 250,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19000",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 270,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19000",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 270,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19000",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 270,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19001",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 270,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19001",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 270,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19001",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 270,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19002",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 270,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19002",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 270,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19002",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 270,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19003",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 270,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19003",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 270,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19003",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 270,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19004",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 270,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19004",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 270,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19004",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 270,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19005",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 270,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19005",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 270,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_270_19005",
+    "group": "sine_270",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 270,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19000",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 300,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19000",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 300,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19000",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 300,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19001",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 300,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19001",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 300,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19001",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 300,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19002",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 300,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19002",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 300,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19002",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 300,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19003",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 300,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19003",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 300,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19003",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 300,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19004",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 300,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19004",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 300,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19004",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 300,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19005",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 300,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19005",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 300,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_300_19005",
+    "group": "sine_300",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 300,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19000",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 330,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19000",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 330,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19000",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 330,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19001",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 330,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19001",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 330,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19001",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 330,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19002",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 330,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19002",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 330,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19002",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 330,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19003",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 330,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19003",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 330,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19003",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 330,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19004",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 330,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19004",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 330,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19004",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 330,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19005",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 330,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19005",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 330,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_330_19005",
+    "group": "sine_330",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 330,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19000",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 350,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19000",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 350,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19000",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 350,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19001",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 350,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19001",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 350,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19001",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 350,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19002",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 350,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19002",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 350,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19002",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 350,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19003",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 350,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19003",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 350,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19003",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 350,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19004",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 350,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19004",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 350,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19004",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 350,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19005",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 350,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19005",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 350,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_350_19005",
+    "group": "sine_350",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 350,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19000",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19000",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19000",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19001",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19001",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19001",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19002",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19002",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19002",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19003",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19003",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19003",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19004",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19004",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19004",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19005",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19005",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_360_19005",
+    "group": "sine_360",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19000",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 375,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19000",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 375,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19000",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 375,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19001",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 375,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19001",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 375,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19001",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 375,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19002",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 375,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19002",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 375,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19002",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 375,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19003",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 375,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19003",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 375,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19003",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 375,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19004",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 375,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19004",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 375,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19004",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 375,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19005",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 375,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19005",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 375,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_375_19005",
+    "group": "sine_375",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 375,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19000",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19000",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19000",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19001",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19001",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19001",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19002",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19002",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19002",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19003",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19003",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19003",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19004",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19004",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19004",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19005",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19005",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_400_19005",
+    "group": "sine_400",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19000",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19000",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19000",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19001",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19001",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19001",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19002",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19002",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19002",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19003",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19003",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19003",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19004",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19004",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19004",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19005",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19005",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_420_19005",
+    "group": "sine_420",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19000",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 450,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19000",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 450,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19000",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19000,
+    "mass": 450,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19001",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 450,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19001",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 450,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19001",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19001,
+    "mass": 450,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19002",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 450,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19002",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 450,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19002",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19002,
+    "mass": 450,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19003",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 450,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19003",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 450,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19003",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19003,
+    "mass": 450,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19004",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 450,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19004",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 450,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19004",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19004,
+    "mass": 450,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19005",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 450,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19005",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 450,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "sine_450_19005",
+    "group": "sine_450",
+    "kind": "sine",
+    "seed": 19005,
+    "mass": 450,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19100",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19100",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19100",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19101",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19101",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19101",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19102",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19102",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19102",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19103",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19103",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19103",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19104",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19104",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19104",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19105",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 200,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19105",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 200,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_200_19105",
+    "group": "multisine_200",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 200,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19100",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 225,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19100",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 225,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19100",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 225,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19101",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 225,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19101",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 225,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19101",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 225,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19102",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 225,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19102",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 225,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19102",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 225,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19103",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 225,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19103",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 225,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19103",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 225,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19104",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 225,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19104",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 225,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19104",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 225,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19105",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 225,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19105",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 225,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_225_19105",
+    "group": "multisine_225",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 225,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19100",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19100",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19100",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19101",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19101",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19101",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19102",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19102",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19102",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19103",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19103",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19103",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19104",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19104",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19104",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19105",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 240,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19105",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 240,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_240_19105",
+    "group": "multisine_240",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 240,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19100",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 250,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19100",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 250,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19100",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 250,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19101",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 250,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19101",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 250,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19101",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 250,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19102",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 250,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19102",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 250,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19102",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 250,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19103",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 250,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19103",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 250,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19103",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 250,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19104",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 250,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19104",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 250,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19104",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 250,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19105",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 250,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19105",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 250,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_250_19105",
+    "group": "multisine_250",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 250,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19100",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 270,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19100",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 270,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19100",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 270,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19101",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 270,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19101",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 270,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19101",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 270,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19102",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 270,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19102",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 270,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19102",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 270,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19103",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 270,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19103",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 270,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19103",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 270,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19104",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 270,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19104",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 270,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19104",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 270,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19105",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 270,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19105",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 270,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_270_19105",
+    "group": "multisine_270",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 270,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19100",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 300,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19100",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 300,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19100",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 300,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19101",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 300,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19101",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 300,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19101",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 300,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19102",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 300,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19102",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 300,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19102",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 300,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19103",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 300,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19103",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 300,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19103",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 300,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19104",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 300,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19104",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 300,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19104",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 300,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19105",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 300,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19105",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 300,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_300_19105",
+    "group": "multisine_300",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 300,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19100",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 330,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19100",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 330,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19100",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 330,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19101",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 330,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19101",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 330,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19101",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 330,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19102",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 330,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19102",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 330,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19102",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 330,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19103",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 330,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19103",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 330,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19103",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 330,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19104",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 330,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19104",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 330,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19104",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 330,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19105",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 330,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19105",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 330,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_330_19105",
+    "group": "multisine_330",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 330,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19100",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 350,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19100",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 350,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19100",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 350,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19101",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 350,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19101",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 350,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19101",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 350,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19102",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 350,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19102",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 350,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19102",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 350,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19103",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 350,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19103",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 350,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19103",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 350,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19104",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 350,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19104",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 350,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19104",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 350,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19105",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 350,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19105",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 350,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_350_19105",
+    "group": "multisine_350",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 350,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19100",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19100",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19100",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19101",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19101",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19101",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19102",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19102",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19102",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19103",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19103",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19103",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19104",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19104",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19104",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19105",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 360,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19105",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 360,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_360_19105",
+    "group": "multisine_360",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 360,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19100",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 375,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19100",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 375,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19100",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 375,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19101",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 375,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19101",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 375,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19101",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 375,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19102",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 375,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19102",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 375,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19102",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 375,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19103",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 375,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19103",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 375,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19103",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 375,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19104",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 375,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19104",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 375,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19104",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 375,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19105",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 375,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19105",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 375,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_375_19105",
+    "group": "multisine_375",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 375,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19100",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19100",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19100",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19101",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19101",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19101",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19102",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19102",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19102",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19103",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19103",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19103",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19104",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19104",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19104",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19105",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 400,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19105",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 400,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_400_19105",
+    "group": "multisine_400",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 400,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19100",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19100",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19100",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19101",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19101",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19101",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19102",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19102",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19102",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19103",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19103",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19103",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19104",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19104",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19104",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19105",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 420,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19105",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 420,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_420_19105",
+    "group": "multisine_420",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 420,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19100",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 450,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19100",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 450,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19100",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19100,
+    "mass": 450,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19101",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 450,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19101",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 450,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19101",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19101,
+    "mass": 450,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19102",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 450,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19102",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 450,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19102",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19102,
+    "mass": 450,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19103",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 450,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19103",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 450,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19103",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19103,
+    "mass": 450,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19104",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 450,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19104",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 450,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19104",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19104,
+    "mass": 450,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19105",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 450,
+    "mode": "NN_fixed",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19105",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 450,
+    "mode": "NN_adaptive",
+    "amplitude": null,
+    "frequency": null
+  },
+  {
+    "case_id": "multisine_450_19105",
+    "group": "multisine_450",
+    "kind": "multisine",
+    "seed": 19105,
+    "mass": 450,
+    "mode": "NN_oracle",
+    "amplitude": null,
+    "frequency": null
+  }
+]

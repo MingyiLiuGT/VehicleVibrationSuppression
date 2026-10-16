@@ -1,0 +1,31 @@
+{
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "cpu": "Apple M4",
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "scipy": "1.18.1",
+  "sklearn": "1.9.1",
+  "osqp": "1.1.3",
+  "matplotlib": "3.11.2",
+  "threadpools": [
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 1,
+      "prefix": "libomp",
+      "filepath": "/Users/wengweng/Documents/Code/Projects/Vibration Suppression IJDC/new_code/.deps/sklearn/.dylibs/libomp.dylib",
+      "version": null
+    }
+  ],
+  "sources": {
+    "analyze_results.py": "5377471048cd0d63714da48993ffd12d1341bd48bc6264e4a4bf5b3d82390fcc",
+    "bootstrap.py": "80ac37ff237cf19f514041ba5d8f162fb2f0093d9f3657cb80ad4ff2247371bd",
+    "build_documents.py": "fb70e0140327eb3128f2350286ba3abc9f36b3e63cb40b02e2272179ad5096c8",
+    "test_core.py": "1f1c9ada9ecbaea02e756542f6d4f0c1368e2ba9fcff375aedd5e8c4b4baf825",
+    "core.py": "9a79e2e10cb75a7dae480cb69a80ac2be6787be7ab6d3049dfa09a7fa193d07a",
+    "validate_results.py": "9955938e48fc6dc74519963a3880026ebf6ee54ffa1f4e9b674f8c622d3d3d12",
+    "identification_diagnostic.py": "41f8a9980c73d98f86a4f4871715e9de8e5db723ea41e47249df34c792088a6f",
+    "run_experiments.py": "40cb484467bb215474013bb351bf96196e9b6aa617da81ffcccb03e00ddcd501"
+  },
+  "data": "All road inputs are generated synthetic profiles; no measured road or HIL data are used."
+}

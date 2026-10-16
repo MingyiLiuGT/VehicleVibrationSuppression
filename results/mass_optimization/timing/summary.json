@@ -1,0 +1,122 @@
+{
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "python": "3.12.14",
+  "calls_per_path": 5000,
+  "warmup": 100,
+  "methods": {
+    "NN_fixed": {
+      "preview_ms": {
+        "mean": 0.0012766397999999998,
+        "p95": 0.001667,
+        "max": 0.018459
+      },
+      "id_ms": {
+        "mean": 0.00014891459999999998,
+        "p95": 0.000208,
+        "max": 0.011833
+      },
+      "model_ms": {
+        "mean": 6.04824e-05,
+        "p95": 8.4e-05,
+        "max": 0.001167
+      },
+      "control_ms": {
+        "mean": 0.0152811304,
+        "p95": 0.019,
+        "max": 0.269833
+      },
+      "total_ms": {
+        "mean": 0.0167671672,
+        "p95": 0.020958,
+        "max": 0.276291
+      }
+    },
+    "NN_adaptive": {
+      "preview_ms": {
+        "mean": 0.0014327724,
+        "p95": 0.001667,
+        "max": 0.021667
+      },
+      "id_ms": {
+        "mean": 0.0042482782,
+        "p95": 0.0065,
+        "max": 0.079958
+      },
+      "model_ms": {
+        "mean": 7.43308e-05,
+        "p95": 8.4e-05,
+        "max": 0.0005
+      },
+      "control_ms": {
+        "mean": 0.014573911000000002,
+        "p95": 0.01675,
+        "max": 0.126792
+      },
+      "total_ms": {
+        "mean": 0.020329292400000004,
+        "p95": 0.024209,
+        "max": 0.144834
+      }
+    },
+    "MPC_fixed": {
+      "preview_ms": {
+        "mean": 0.0014164301999999998,
+        "p95": 0.001625,
+        "max": 0.025542
+      },
+      "id_ms": {
+        "mean": 0.00014868380000000001,
+        "p95": 0.000208,
+        "max": 0.00225
+      },
+      "model_ms": {
+        "mean": 6.76872e-05,
+        "p95": 8.4e-05,
+        "max": 0.000417
+      },
+      "control_ms": {
+        "mean": 0.055377886,
+        "p95": 0.08358510000000001,
+        "max": 0.373666
+      },
+      "total_ms": {
+        "mean": 0.05701068720000001,
+        "p95": 0.08512920000000002,
+        "max": 0.375291
+      }
+    },
+    "MPC_adaptive": {
+      "preview_ms": {
+        "mean": 0.001220373,
+        "p95": 0.0015,
+        "max": 0.071417
+      },
+      "id_ms": {
+        "mean": 0.0034569612000000007,
+        "p95": 0.005458,
+        "max": 0.056167
+      },
+      "model_ms": {
+        "mean": 0.2417951272,
+        "p95": 0.4661163500000001,
+        "max": 2.879125
+      },
+      "control_ms": {
+        "mean": 0.08301034199999999,
+        "p95": 0.13458815000000002,
+        "max": 0.5775
+      },
+      "total_ms": {
+        "mean": 0.3294828034,
+        "p95": 0.5723875,
+        "max": 3.159458
+      }
+    }
+  },
+  "adaptive_mpc_rebuilds": 2910,
+  "initialization_mean_ms": 0.44802715,
+  "max_nn_replay_error_N": 0.0,
+  "garbage_collection_enabled": false,
+  "timer": "perf_counter_ns wall time; thread_time_ns brackets each call outside the wall-time interval for diagnostics only",
+  "note": "Timing includes preview assembly, causal previous-sample RLS, mass selection, network input normalization, learned head interpolation, force projection; adaptive MPC includes every changed clipped-mass rebuild. Sensing, state/road reconstruction and physical actuation excluded."
+}

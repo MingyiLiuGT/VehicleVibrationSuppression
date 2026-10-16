@@ -1,0 +1,9 @@
+{
+  "road_trajectories": 168,
+  "mass_trajectories": 864,
+  "all_metrics_finite": true,
+  "all_applied_force_violations_zero": true,
+  "all_tanh_raw_force_violations_zero": true,
+  "current_model_rms_max_difference_from_frozen_results": 0.0,
+  "production_policy_unchanged": true
+}

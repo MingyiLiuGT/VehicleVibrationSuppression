@@ -1,0 +1,88 @@
+{
+  "training_mass_range_kg": [
+    200,
+    450
+  ],
+  "development_seeds": {
+    "sine": [
+      15000,
+      15001,
+      15002,
+      15003
+    ],
+    "multisine": [
+      15100,
+      15101,
+      15102,
+      15103
+    ]
+  },
+  "heldout_seeds": {
+    "sine": [
+      16000,
+      16001,
+      16002,
+      16003,
+      16004,
+      16005,
+      16006,
+      16007,
+      16008,
+      16009,
+      16010,
+      16011
+    ],
+    "multisine": [
+      16100,
+      16101,
+      16102,
+      16103,
+      16104,
+      16105,
+      16106,
+      16107,
+      16108,
+      16109,
+      16110,
+      16111
+    ]
+  },
+  "loads_kg": [
+    200.0,
+    240.0,
+    360.0,
+    420.0
+  ],
+  "duration_s": 24,
+  "change_times_s": [
+    4,
+    20
+  ],
+  "windows_s": {
+    "loaded": [
+      4,
+      20
+    ],
+    "early": [
+      4,
+      8
+    ],
+    "settled": [
+      8,
+      20
+    ],
+    "whole": [
+      0,
+      24
+    ],
+    "recovery": [
+      20,
+      24
+    ]
+  },
+  "primary": "Loaded-segment acceleration RMS; all load/road cases retained; also travel, tire, force and contact.",
+  "selection": "Training/action-validation data and development roads only. Held-out roads frozen until model selection.",
+  "mass_update": "Causal prior-sample estimate; no true change time available to controller.",
+  "baseline": "Same policy with mass input fixed at 300 kg; also previous policy and matched MPC.",
+  "objective": "Improve actual control and mass-dependent action accuracy, never maximize relative gain by degrading the fixed-input baseline."
+}

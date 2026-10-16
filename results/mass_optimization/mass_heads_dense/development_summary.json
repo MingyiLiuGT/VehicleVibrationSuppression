@@ -1,0 +1,1562 @@
+[
+  {
+    "kind": "sine",
+    "mass": 200.0,
+    "window": "loaded",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.1316425284446191,
+        "tail_error_pct": 50.0,
+        "travel_rms_mm": 11.261444263072692,
+        "tire_rms_N": 234.80550834753038,
+        "force_rms_N": 367.38872567772404,
+        "min_contact_ratio": 0.851757092026958,
+        "acc_peak": 0.23505844079273946
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.12900811592437295,
+        "tail_error_pct": 13.579052828884718,
+        "travel_rms_mm": 11.458476472393881,
+        "tire_rms_N": 237.17911768746455,
+        "force_rms_N": 364.9756578958346,
+        "min_contact_ratio": 0.8528955722663123,
+        "acc_peak": 0.23815899642891464
+      },
+      "NN_oracle": {
+        "acc_rms": 0.1283737512643258,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.540310973108802,
+        "tire_rms_N": 237.30620197506568,
+        "force_rms_N": 365.59421762347597,
+        "min_contact_ratio": 0.8522548048635992,
+        "acc_peak": 0.20954151116372197
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 2.001186509688191,
+      "NN_oracle": 2.4830707970399213
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 200.0,
+    "window": "early",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.1317584448375564,
+        "tail_error_pct": 50.0,
+        "travel_rms_mm": 11.264764621607185,
+        "tire_rms_N": 234.89368524698384,
+        "force_rms_N": 367.59306087817447,
+        "min_contact_ratio": 0.8517584710266332,
+        "acc_peak": 0.23505844079273946
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.12796279321927517,
+        "tail_error_pct": 13.579052828884718,
+        "travel_rms_mm": 11.396906117821988,
+        "tire_rms_N": 236.36792119851583,
+        "force_rms_N": 365.70773145194465,
+        "min_contact_ratio": 0.8530744314277123,
+        "acc_peak": 0.2372589579280341
+      },
+      "NN_oracle": {
+        "acc_rms": 0.12752204527043928,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.481924422856139,
+        "tire_rms_N": 237.1837254510938,
+        "force_rms_N": 364.94594576838625,
+        "min_contact_ratio": 0.8523453077232691,
+        "acc_peak": 0.2090915394853387
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 2.88076534522006,
+      "NN_oracle": 3.215277451354348
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 200.0,
+    "window": "settled",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.131603697499785,
+        "tail_error_pct": 50.0,
+        "travel_rms_mm": 11.26030805763564,
+        "tire_rms_N": 234.7760995454829,
+        "force_rms_N": 367.3205464893671,
+        "min_contact_ratio": 0.8532085535845557,
+        "acc_peak": 0.2278442800219687
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.1293433825063219,
+        "tail_error_pct": 13.579052828884718,
+        "travel_rms_mm": 11.478806711809934,
+        "tire_rms_N": 237.44723095679012,
+        "force_rms_N": 364.7312179936649,
+        "min_contact_ratio": 0.8544612131888569,
+        "acc_peak": 0.20858019313926088
+      },
+      "NN_oracle": {
+        "acc_rms": 0.12865346889790988,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.559592689845235,
+        "tire_rms_N": 237.3468679224701,
+        "force_rms_N": 365.8087587066991,
+        "min_contact_ratio": 0.85474265728606,
+        "acc_peak": 0.20672495942611102
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 1.7175163284958606,
+      "NN_oracle": 2.241752061624225
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 200.0,
+    "window": "whole",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.12399054343999377,
+        "tail_error_pct": 50.0,
+        "travel_rms_mm": 11.39270368812451,
+        "tire_rms_N": 236.40066619242754,
+        "force_rms_N": 367.118686496022,
+        "min_contact_ratio": 0.8421479882307735,
+        "acc_peak": 0.23581152086136511
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.12221103554654553,
+        "tail_error_pct": 13.579052828884718,
+        "travel_rms_mm": 11.53073819911451,
+        "tire_rms_N": 238.0322287139246,
+        "force_rms_N": 365.34893915949397,
+        "min_contact_ratio": 0.8432022586938817,
+        "acc_peak": 0.24043332271316747
+      },
+      "NN_oracle": {
+        "acc_rms": 0.12164995996025948,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.580308946345014,
+        "tire_rms_N": 238.05592980405913,
+        "force_rms_N": 365.9995798670333,
+        "min_contact_ratio": 0.845402048099154,
+        "acc_peak": 0.21418381594362304
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 1.435196462631405,
+      "NN_oracle": 1.8877112841004906
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 200.0,
+    "window": "recovery",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.1100427803121339,
+        "tail_error_pct": 50.0,
+        "travel_rms_mm": 11.958794545751259,
+        "tire_rms_N": 244.14236491720968,
+        "force_rms_N": 373.39611656121133,
+        "min_contact_ratio": 0.8924943788480064,
+        "acc_peak": 0.19489069605782788
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.11117454151964394,
+        "tail_error_pct": 13.579052828884718,
+        "travel_rms_mm": 12.015401769336922,
+        "tire_rms_N": 244.6183026191857,
+        "force_rms_N": 372.4025720104269,
+        "min_contact_ratio": 0.8926944726111109,
+        "acc_peak": 0.2066267560456489
+      },
+      "NN_oracle": {
+        "acc_rms": 0.11066439512541801,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.985185100846811,
+        "tire_rms_N": 244.32870628304192,
+        "force_rms_N": 373.8914055197905,
+        "min_contact_ratio": 0.8922905239937773,
+        "acc_peak": 0.19767401213353694
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -1.0284738392648984,
+      "NN_oracle": -0.564884685320477
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 240.0,
+    "window": "loaded",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.12116155454525898,
+        "tail_error_pct": 25.0,
+        "travel_rms_mm": 11.533996269536072,
+        "tire_rms_N": 239.25365608131753,
+        "force_rms_N": 369.80930123197163,
+        "min_contact_ratio": 0.871683379902537,
+        "acc_peak": 0.2077709098849259
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.12107241963568122,
+        "tail_error_pct": 7.493127820924534,
+        "travel_rms_mm": 11.64151449648831,
+        "tire_rms_N": 240.26320166723144,
+        "force_rms_N": 368.38390633374536,
+        "min_contact_ratio": 0.8723123137028213,
+        "acc_peak": 0.20538354145198529
+      },
+      "NN_oracle": {
+        "acc_rms": 0.1207562148816732,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.649623490271587,
+        "tire_rms_N": 240.25649791215776,
+        "force_rms_N": 368.3358062390535,
+        "min_contact_ratio": 0.8719704293770172,
+        "acc_peak": 0.19259244595237313
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 0.07356699071112693,
+      "NN_oracle": 0.33454478617999106
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 240.0,
+    "window": "early",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.1209550145941247,
+        "tail_error_pct": 25.0,
+        "travel_rms_mm": 11.519514486590943,
+        "tire_rms_N": 239.2515285678537,
+        "force_rms_N": 369.8398488969898,
+        "min_contact_ratio": 0.871683379902537,
+        "acc_peak": 0.2077709098849259
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.12041634503117501,
+        "tail_error_pct": 7.493127820924534,
+        "travel_rms_mm": 11.595020268086586,
+        "tire_rms_N": 239.91138475021398,
+        "force_rms_N": 368.78273668636,
+        "min_contact_ratio": 0.8725127495190438,
+        "acc_peak": 0.20471412134647649
+      },
+      "NN_oracle": {
+        "acc_rms": 0.12019403973472625,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.632373791231803,
+        "tire_rms_N": 240.16573263199288,
+        "force_rms_N": 368.45270625864504,
+        "min_contact_ratio": 0.871970523007273,
+        "acc_peak": 0.19247405937401252
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 0.44534702819658545,
+      "NN_oracle": 0.6291387438147611
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 240.0,
+    "window": "settled",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.12123015991971821,
+        "tail_error_pct": 25.0,
+        "travel_rms_mm": 11.538805051616016,
+        "tire_rms_N": 239.25430663045773,
+        "force_rms_N": 369.79909355922143,
+        "min_contact_ratio": 0.8722289758276054,
+        "acc_peak": 0.2035713093192935
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.12128761912002275,
+        "tail_error_pct": 7.493127820924534,
+        "travel_rms_mm": 11.656952923887747,
+        "tire_rms_N": 240.37982336976415,
+        "force_rms_N": 368.2508052600074,
+        "min_contact_ratio": 0.8727546579406846,
+        "acc_peak": 0.19429467309479734
+      },
+      "NN_oracle": {
+        "acc_rms": 0.1209423535202725,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.655356279055969,
+        "tire_rms_N": 240.28660358013263,
+        "force_rms_N": 368.2968171238925,
+        "min_contact_ratio": 0.8731652559566432,
+        "acc_peak": 0.19091278804533332
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.04739678669285485,
+      "NN_oracle": 0.2374049490954322
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 240.0,
+    "window": "whole",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.11633462386487946,
+        "tail_error_pct": 25.0,
+        "travel_rms_mm": 11.55981068667611,
+        "tire_rms_N": 239.28131623415584,
+        "force_rms_N": 368.54675818429973,
+        "min_contact_ratio": 0.8553353391389482,
+        "acc_peak": 0.21639364037856923
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.11631377049083667,
+        "tail_error_pct": 7.493127820924534,
+        "travel_rms_mm": 11.63560607384961,
+        "tire_rms_N": 239.9874538145154,
+        "force_rms_N": 367.5049395210242,
+        "min_contact_ratio": 0.8557718311994789,
+        "acc_peak": 0.21237621780798221
+      },
+      "NN_oracle": {
+        "acc_rms": 0.11605316415041628,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.636192094412758,
+        "tire_rms_N": 239.9525440970432,
+        "force_rms_N": 367.5410546039418,
+        "min_contact_ratio": 0.8567989082069633,
+        "acc_peak": 0.20085545775512342
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 0.017925337573621025,
+      "NN_oracle": 0.24193976402939743
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 240.0,
+    "window": "recovery",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.10940027096585583,
+        "tail_error_pct": 25.0,
+        "travel_rms_mm": 11.890320785199389,
+        "tire_rms_N": 244.02087295876578,
+        "force_rms_N": 372.32944478875027,
+        "min_contact_ratio": 0.8929267335372826,
+        "acc_peak": 0.18256945943162722
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.10968111252512736,
+        "tail_error_pct": 7.493127820924534,
+        "travel_rms_mm": 11.920726089774528,
+        "tire_rms_N": 244.22118950515488,
+        "force_rms_N": 371.7356086724246,
+        "min_contact_ratio": 0.8930693231167184,
+        "acc_peak": 0.1804126230330756
+      },
+      "NN_oracle": {
+        "acc_rms": 0.10952798880692603,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.889262828578621,
+        "tire_rms_N": 244.0752560044607,
+        "force_rms_N": 372.2175580122523,
+        "min_contact_ratio": 0.8928124162850408,
+        "acc_peak": 0.1836263244670125
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.2567101130482419,
+      "NN_oracle": -0.11674362407205763
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 360.0,
+    "window": "loaded",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.09595220939123117,
+        "tail_error_pct": 16.66666666666666,
+        "travel_rms_mm": 12.06602649511848,
+        "tire_rms_N": 244.89864528491856,
+        "force_rms_N": 373.32298413331034,
+        "min_contact_ratio": 0.9087521744167274,
+        "acc_peak": 0.1585369396131717
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.09607822386223112,
+        "tail_error_pct": 6.025101937200489,
+        "travel_rms_mm": 12.010946974500953,
+        "tire_rms_N": 244.96290669805654,
+        "force_rms_N": 374.32291730114116,
+        "min_contact_ratio": 0.9081123684036552,
+        "acc_peak": 0.15741770123194854
+      },
+      "NN_oracle": {
+        "acc_rms": 0.09640624134253224,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.99525595773446,
+        "tire_rms_N": 245.07312486736114,
+        "force_rms_N": 374.2164945891144,
+        "min_contact_ratio": 0.90811622040184,
+        "acc_peak": 0.15949812703105584
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.13133045273210353,
+      "NN_oracle": -0.47318550993424857
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 360.0,
+    "window": "early",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.09644773761623995,
+        "tail_error_pct": 16.66666666666666,
+        "travel_rms_mm": 12.092822997358585,
+        "tire_rms_N": 245.10197895429246,
+        "force_rms_N": 373.9443478782693,
+        "min_contact_ratio": 0.9087658855932504,
+        "acc_peak": 0.1585369396131717
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.09648911150292562,
+        "tail_error_pct": 6.025101937200489,
+        "travel_rms_mm": 12.047325569475746,
+        "tire_rms_N": 245.14445093319458,
+        "force_rms_N": 374.7416033972591,
+        "min_contact_ratio": 0.9083177038264942,
+        "acc_peak": 0.15741770123194854
+      },
+      "NN_oracle": {
+        "acc_rms": 0.09687346051228699,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 12.003601995549921,
+        "tire_rms_N": 245.2625744922413,
+        "force_rms_N": 374.6426784725973,
+        "min_contact_ratio": 0.9081198874824887,
+        "acc_peak": 0.15949812703105584
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.04289772648715662,
+      "NN_oracle": -0.44140267731416216
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 360.0,
+    "window": "settled",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.09578635637953152,
+        "tail_error_pct": 16.66666666666666,
+        "travel_rms_mm": 12.056969818642823,
+        "tire_rms_N": 244.830801135463,
+        "force_rms_N": 373.11493066129333,
+        "min_contact_ratio": 0.908931170662139,
+        "acc_peak": 0.1514483807458215
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.0959407498565591,
+        "tail_error_pct": 6.025101937200489,
+        "travel_rms_mm": 11.998687013786792,
+        "tire_rms_N": 244.9023395358824,
+        "force_rms_N": 374.182417874241,
+        "min_contact_ratio": 0.9081401842513244,
+        "acc_peak": 0.1511722875142618
+      },
+      "NN_oracle": {
+        "acc_rms": 0.09624991572101378,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.99243627162626,
+        "tire_rms_N": 245.00991930651657,
+        "force_rms_N": 374.07400773690966,
+        "min_contact_ratio": 0.9082280228600065,
+        "acc_peak": 0.1503205382805226
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.16118524898871556,
+      "NN_oracle": -0.4839513256413186
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 360.0,
+    "window": "whole",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.09899105896283761,
+        "tail_error_pct": 16.66666666666666,
+        "travel_rms_mm": 11.907532126756315,
+        "tire_rms_N": 242.94470570451045,
+        "force_rms_N": 370.75250280765,
+        "min_contact_ratio": 0.8686396536658704,
+        "acc_peak": 0.19632248499397087
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.09911251246243813,
+        "tail_error_pct": 6.025101937200489,
+        "travel_rms_mm": 11.865615298126066,
+        "tire_rms_N": 242.9794401825706,
+        "force_rms_N": 371.4874893990724,
+        "min_contact_ratio": 0.8682156683445279,
+        "acc_peak": 0.1979436973812153
+      },
+      "NN_oracle": {
+        "acc_rms": 0.09929491526231551,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.859472597410889,
+        "tire_rms_N": 243.06509069775035,
+        "force_rms_N": 371.3470316188142,
+        "min_contact_ratio": 0.8686396536658704,
+        "acc_peak": 0.19632248499397087
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.12269138331586493,
+      "NN_oracle": -0.30695327705503317
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 360.0,
+    "window": "recovery",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.10713394335146126,
+        "tail_error_pct": 16.66666666666666,
+        "travel_rms_mm": 11.838591194283934,
+        "tire_rms_N": 243.36447765236673,
+        "force_rms_N": 371.4641733009769,
+        "min_contact_ratio": 0.8933207029526777,
+        "acc_peak": 0.173385518984745
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.10727835991460333,
+        "tail_error_pct": 6.025101937200489,
+        "travel_rms_mm": 11.814630421826221,
+        "tire_rms_N": 243.2895531856518,
+        "force_rms_N": 371.77086497174184,
+        "min_contact_ratio": 0.8929814746430247,
+        "acc_peak": 0.17740867143550382
+      },
+      "NN_oracle": {
+        "acc_rms": 0.10722642899964849,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.838021919856322,
+        "tire_rms_N": 243.38810788674468,
+        "force_rms_N": 371.4321605409284,
+        "min_contact_ratio": 0.8933190033097628,
+        "acc_peak": 0.17349832917725033
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.13480000700458739,
+      "NN_oracle": -0.08632712032621281
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 420.0,
+    "window": "loaded",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.08469835554282173,
+        "tail_error_pct": 28.57142857142856,
+        "travel_rms_mm": 12.211431277056388,
+        "tire_rms_N": 245.12437995395396,
+        "force_rms_N": 374.1944065110713,
+        "min_contact_ratio": 0.9202164727913653,
+        "acc_peak": 0.15630951946561122
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.08512083455913244,
+        "tail_error_pct": 9.24256783964376,
+        "travel_rms_mm": 12.135852725742312,
+        "tire_rms_N": 245.65685375580478,
+        "force_rms_N": 375.9829962186182,
+        "min_contact_ratio": 0.9194842657450022,
+        "acc_peak": 0.15534980451459643
+      },
+      "NN_oracle": {
+        "acc_rms": 0.08564956655144068,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 12.105834036821417,
+        "tire_rms_N": 245.89080535501222,
+        "force_rms_N": 375.69835617701995,
+        "min_contact_ratio": 0.9195814419008009,
+        "acc_peak": 0.15018286864510205
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.49880427264861193,
+      "NN_oracle": -1.1230572335469091
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 420.0,
+    "window": "early",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.08573242355389005,
+        "tail_error_pct": 28.57142857142856,
+        "travel_rms_mm": 12.297120006650378,
+        "tire_rms_N": 245.55240676660588,
+        "force_rms_N": 375.529660614067,
+        "min_contact_ratio": 0.9202322623181203,
+        "acc_peak": 0.15630951946561122
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.08590592144608383,
+        "tail_error_pct": 9.24256783964376,
+        "travel_rms_mm": 12.233531562986485,
+        "tire_rms_N": 245.9430450734814,
+        "force_rms_N": 376.9319687216345,
+        "min_contact_ratio": 0.9196722457815502,
+        "acc_peak": 0.15534980451459643
+      },
+      "NN_oracle": {
+        "acc_rms": 0.08656917578890509,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 12.132364693788508,
+        "tire_rms_N": 246.27183240561527,
+        "force_rms_N": 376.36333136297316,
+        "min_contact_ratio": 0.9195859599099829,
+        "acc_peak": 0.15018286864510205
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.20237138412950717,
+      "NN_oracle": -0.9760044103839904
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 420.0,
+    "window": "settled",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.08435004313532954,
+        "tail_error_pct": 28.57142857142856,
+        "travel_rms_mm": 12.18216729415779,
+        "tire_rms_N": 244.9813992504129,
+        "force_rms_N": 373.74452274115254,
+        "min_contact_ratio": 0.9209010184931634,
+        "acc_peak": 0.14077276116298837
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.08485696817813476,
+        "tail_error_pct": 9.24256783964376,
+        "travel_rms_mm": 12.102571227561846,
+        "tire_rms_N": 245.56132274261807,
+        "force_rms_N": 375.66183339297913,
+        "min_contact_ratio": 0.919703946632277,
+        "acc_peak": 0.13413874444188506
+      },
+      "NN_oracle": {
+        "acc_rms": 0.08534022441044374,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 12.09689979037988,
+        "tire_rms_N": 245.7635914160766,
+        "force_rms_N": 375.47554915776703,
+        "min_contact_ratio": 0.919718643137854,
+        "acc_peak": 0.13403315281584915
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.6009778109916653,
+      "NN_oracle": -1.1738953986372813
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 420.0,
+    "window": "whole",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.09174969417073368,
+        "tail_error_pct": 28.57142857142856,
+        "travel_rms_mm": 12.007733307013174,
+        "tire_rms_N": 243.05324652225622,
+        "force_rms_N": 371.34758012947685,
+        "min_contact_ratio": 0.8686396536658704,
+        "acc_peak": 0.19632248499397087
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.09210542577761663,
+        "tail_error_pct": 9.24256783964376,
+        "travel_rms_mm": 11.949091499118342,
+        "tire_rms_N": 243.4020836348487,
+        "force_rms_N": 372.65879654525713,
+        "min_contact_ratio": 0.8679508624161087,
+        "acc_peak": 0.2021659359608437
+      },
+      "NN_oracle": {
+        "acc_rms": 0.09236527103114123,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.935645381653542,
+        "tire_rms_N": 243.57840936861885,
+        "force_rms_N": 372.3524886190172,
+        "min_contact_ratio": 0.8686396536658704,
+        "acc_peak": 0.19632248499397087
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.38771966500616983,
+      "NN_oracle": -0.6709306946157678
+    }
+  },
+  {
+    "kind": "sine",
+    "mass": 420.0,
+    "window": "recovery",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.10635313815999103,
+        "tail_error_pct": 28.57142857142856,
+        "travel_rms_mm": 11.846719046350275,
+        "tire_rms_N": 243.0767238284095,
+        "force_rms_N": 371.51945293254965,
+        "min_contact_ratio": 0.8931208896191171,
+        "acc_peak": 0.1758761963462308
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.10674938074749461,
+        "tail_error_pct": 9.24256783964376,
+        "travel_rms_mm": 11.80702798873465,
+        "tire_rms_N": 242.97858087763504,
+        "force_rms_N": 372.1012621856425,
+        "min_contact_ratio": 0.8925167120981992,
+        "acc_peak": 0.18293892960987268
+      },
+      "NN_oracle": {
+        "acc_rms": 0.10649993929769147,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.845614660703434,
+        "tire_rms_N": 243.1255846551128,
+        "force_rms_N": 371.48751529297584,
+        "min_contact_ratio": 0.8931304615009507,
+        "acc_peak": 0.17593331005102744
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.37257253933353773,
+      "NN_oracle": -0.13803178753371004
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 200.0,
+    "window": "loaded",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.400913157079618,
+        "tail_error_pct": 50.0,
+        "travel_rms_mm": 9.994116568405623,
+        "tire_rms_N": 316.1606943259044,
+        "force_rms_N": 327.8780362451706,
+        "min_contact_ratio": 0.5190154893404151,
+        "acc_peak": 2.3174909131789323
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.40218043148845084,
+        "tail_error_pct": 0.4822144013377669,
+        "travel_rms_mm": 10.185606158676332,
+        "tire_rms_N": 316.9261941225307,
+        "force_rms_N": 329.4612362445978,
+        "min_contact_ratio": 0.5205750762902165,
+        "acc_peak": 2.324065692162405
+      },
+      "NN_oracle": {
+        "acc_rms": 0.4027089441957949,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 10.209445232692765,
+        "tire_rms_N": 317.10366483269996,
+        "force_rms_N": 329.5046573513059,
+        "min_contact_ratio": 0.5203807647342378,
+        "acc_peak": 2.3312099401015587
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.31609698670507225,
+      "NN_oracle": -0.4479242161215202
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 200.0,
+    "window": "early",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.3953842743592896,
+        "tail_error_pct": 50.0,
+        "travel_rms_mm": 9.40971882718173,
+        "tire_rms_N": 312.88066449489963,
+        "force_rms_N": 314.3563833536073,
+        "min_contact_ratio": 0.597346210318489,
+        "acc_peak": 1.76082879581089
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.39486678373677636,
+        "tail_error_pct": 0.4822144013377669,
+        "travel_rms_mm": 9.49132197494655,
+        "tire_rms_N": 313.3010475069831,
+        "force_rms_N": 314.91565610434867,
+        "min_contact_ratio": 0.5957597052827,
+        "acc_peak": 1.7652487865852773
+      },
+      "NN_oracle": {
+        "acc_rms": 0.3939499983429678,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 9.552852458479684,
+        "tire_rms_N": 313.55802751765646,
+        "force_rms_N": 314.98734389272056,
+        "min_contact_ratio": 0.5944945129139527,
+        "acc_peak": 1.7717078565792939
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 0.13088295515845116,
+      "NN_oracle": 0.3627549473600111
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 200.0,
+    "window": "settled",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.3992359099826583,
+        "tail_error_pct": 50.0,
+        "travel_rms_mm": 10.173931393634692,
+        "tire_rms_N": 317.03481277803064,
+        "force_rms_N": 332.2357885167746,
+        "min_contact_ratio": 0.5274225213699053,
+        "acc_peak": 2.2955685005759587
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.4008507393750731,
+        "tail_error_pct": 0.4822144013377669,
+        "travel_rms_mm": 10.396216416188718,
+        "tire_rms_N": 317.92468596447935,
+        "force_rms_N": 334.1347767484517,
+        "min_contact_ratio": 0.5309014411488606,
+        "acc_peak": 2.3030043832593594
+      },
+      "NN_oracle": {
+        "acc_rms": 0.40146386087860886,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 10.409119523585048,
+        "tire_rms_N": 318.07606122059224,
+        "force_rms_N": 334.1719499231319,
+        "min_contact_ratio": 0.5309881587813807,
+        "acc_peak": 2.306134259786852
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.40447999592143624,
+      "NN_oracle": -0.5580537322024348
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 200.0,
+    "window": "whole",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.38199710430500994,
+        "tail_error_pct": 50.0,
+        "travel_rms_mm": 10.203363796234989,
+        "tire_rms_N": 326.7073578780522,
+        "force_rms_N": 333.04650674583667,
+        "min_contact_ratio": 0.5190154893404151,
+        "acc_peak": 2.3668263528550195
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.38308828143230006,
+        "tail_error_pct": 0.4822144013377669,
+        "travel_rms_mm": 10.352946681591067,
+        "tire_rms_N": 327.30424596930607,
+        "force_rms_N": 334.1784358733523,
+        "min_contact_ratio": 0.5205750762902165,
+        "acc_peak": 2.3819720642968267
+      },
+      "NN_oracle": {
+        "acc_rms": 0.38317282551171206,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 10.347833564875598,
+        "tire_rms_N": 327.35650661890537,
+        "force_rms_N": 334.1086260036677,
+        "min_contact_ratio": 0.5203807647342378,
+        "acc_peak": 2.386893960669113
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.2856506279740989,
+      "NN_oracle": -0.30778275370468844
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 200.0,
+    "window": "recovery",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.3693280001769159,
+        "tail_error_pct": 50.0,
+        "travel_rms_mm": 11.203137637911986,
+        "tire_rms_N": 363.9233812775498,
+        "force_rms_N": 352.4943043033121,
+        "min_contact_ratio": 0.7033476684931469,
+        "acc_peak": 1.3118916294770637
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.37150326079415075,
+        "tail_error_pct": 0.4822144013377669,
+        "travel_rms_mm": 11.325403875160092,
+        "tire_rms_N": 364.393796652495,
+        "force_rms_N": 352.8640067394392,
+        "min_contact_ratio": 0.7045940895358671,
+        "acc_peak": 1.3163081674264585
+      },
+      "NN_oracle": {
+        "acc_rms": 0.3703859050392299,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.229849229677113,
+        "tire_rms_N": 364.09710926502555,
+        "force_rms_N": 352.431914736016,
+        "min_contact_ratio": 0.703393188255516,
+        "acc_peak": 1.3112433154518013
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.588977986015915,
+      "NN_oracle": -0.2864404707488388
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 240.0,
+    "window": "loaded",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.3430773356544546,
+        "tail_error_pct": 25.0,
+        "travel_rms_mm": 10.178182760083883,
+        "tire_rms_N": 314.91843695448273,
+        "force_rms_N": 329.2561542572994,
+        "min_contact_ratio": 0.5944189182203206,
+        "acc_peak": 1.9236434660449073
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.34423401576763946,
+        "tail_error_pct": 0.5927130989340135,
+        "travel_rms_mm": 10.284890077146187,
+        "tire_rms_N": 315.44298243272897,
+        "force_rms_N": 330.11899553865953,
+        "min_contact_ratio": 0.5961955949013562,
+        "acc_peak": 1.9241057942681676
+      },
+      "NN_oracle": {
+        "acc_rms": 0.3441965898812837,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 10.287859758969015,
+        "tire_rms_N": 315.47340931967653,
+        "force_rms_N": 330.06864952446665,
+        "min_contact_ratio": 0.5963108456125636,
+        "acc_peak": 1.926529819320057
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.33714850646673344,
+      "NN_oracle": -0.32623962894373637
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 240.0,
+    "window": "early",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.33440893903616015,
+        "tail_error_pct": 25.0,
+        "travel_rms_mm": 9.600718078902133,
+        "tire_rms_N": 311.0025061608744,
+        "force_rms_N": 315.8038980307549,
+        "min_contact_ratio": 0.6633648183887648,
+        "acc_peak": 1.4533221382217385
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.3341988926895768,
+        "tail_error_pct": 0.5927130989340135,
+        "travel_rms_mm": 9.633378129341892,
+        "tire_rms_N": 311.26016184542965,
+        "force_rms_N": 315.9243073914922,
+        "min_contact_ratio": 0.6628496868599572,
+        "acc_peak": 1.4552727338904474
+      },
+      "NN_oracle": {
+        "acc_rms": 0.3337053454119015,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 9.656643488130126,
+        "tire_rms_N": 311.34315609135473,
+        "force_rms_N": 315.8786598044701,
+        "min_contact_ratio": 0.6623521740762115,
+        "acc_peak": 1.4579453064082126
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 0.06281122364394376,
+      "NN_oracle": 0.2103991676438266
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 240.0,
+    "window": "settled",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.34261180346140624,
+        "tail_error_pct": 25.0,
+        "travel_rms_mm": 10.356144172875593,
+        "tire_rms_N": 316.0250274158624,
+        "force_rms_N": 333.5939607554221,
+        "min_contact_ratio": 0.6003340954379657,
+        "acc_peak": 1.9069168294313041
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.3439945042088364,
+        "tail_error_pct": 0.5927130989340135,
+        "travel_rms_mm": 10.483635893220708,
+        "tire_rms_N": 316.6435183655414,
+        "force_rms_N": 334.6889492259739,
+        "min_contact_ratio": 0.6029155993496169,
+        "acc_peak": 1.9088136378599283
+      },
+      "NN_oracle": {
+        "acc_rms": 0.3439345915838342,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 10.480650781934903,
+        "tire_rms_N": 316.6569721980136,
+        "force_rms_N": 334.6381124042048,
+        "min_contact_ratio": 0.6031961438842876,
+        "acc_peak": 1.909585673205406
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.4035765065478758,
+      "NN_oracle": -0.3860894776723578
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 240.0,
+    "window": "whole",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.3408626176240996,
+        "tail_error_pct": 25.0,
+        "travel_rms_mm": 10.310441052142208,
+        "tire_rms_N": 325.79405659046427,
+        "force_rms_N": 333.86634409001346,
+        "min_contact_ratio": 0.5944189182203206,
+        "acc_peak": 2.0195002842178114
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.3416598566296356,
+        "tail_error_pct": 0.5927130989340135,
+        "travel_rms_mm": 10.392999267547584,
+        "tire_rms_N": 326.17545206692006,
+        "force_rms_N": 334.4934201953736,
+        "min_contact_ratio": 0.5961955949013562,
+        "acc_peak": 2.023220455984249
+      },
+      "NN_oracle": {
+        "acc_rms": 0.34161270245201053,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 10.383971944452753,
+        "tire_rms_N": 326.1838841436309,
+        "force_rms_N": 334.38246369391277,
+        "min_contact_ratio": 0.5963108456125636,
+        "acc_peak": 2.0239806768644395
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.23388865904185874,
+      "NN_oracle": -0.22005488109526627
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 240.0,
+    "window": "recovery",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.3676422735234359,
+        "tail_error_pct": 25.0,
+        "travel_rms_mm": 11.131366437726879,
+        "tire_rms_N": 363.2994411191687,
+        "force_rms_N": 351.9846928091779,
+        "min_contact_ratio": 0.7032996197831123,
+        "acc_peak": 1.3119504960920707
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.36848089168688286,
+        "tail_error_pct": 0.5927130989340135,
+        "travel_rms_mm": 11.187527419467425,
+        "tire_rms_N": 363.43949442320957,
+        "force_rms_N": 352.1744368640039,
+        "min_contact_ratio": 0.703875272418572,
+        "acc_peak": 1.3139318359690502
+      },
+      "NN_oracle": {
+        "acc_rms": 0.3682978633597107,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.142951068517345,
+        "tire_rms_N": 363.43577208090454,
+        "force_rms_N": 351.8650877470107,
+        "min_contact_ratio": 0.7033395748590261,
+        "acc_peak": 1.311504322866631
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.22810710950340596,
+      "NN_oracle": -0.17832275651863405
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 360.0,
+    "window": "loaded",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.235622412743951,
+        "tail_error_pct": 16.66666666666666,
+        "travel_rms_mm": 10.55171215317322,
+        "tire_rms_N": 311.9001492058376,
+        "force_rms_N": 331.92465120673796,
+        "min_contact_ratio": 0.7284833184047,
+        "acc_peak": 1.2364833330525729
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.23564811855707046,
+        "tail_error_pct": 0.5103896426807006,
+        "travel_rms_mm": 10.5079157692003,
+        "tire_rms_N": 311.63104176766865,
+        "force_rms_N": 331.5429875959859,
+        "min_contact_ratio": 0.7284961989028008,
+        "acc_peak": 1.2298738435339114
+      },
+      "NN_oracle": {
+        "acc_rms": 0.23580155158714555,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 10.50488831472159,
+        "tire_rms_N": 311.62772207325406,
+        "force_rms_N": 331.5525406062959,
+        "min_contact_ratio": 0.7285891047146305,
+        "acc_peak": 1.228529426819196
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.010909748703502586,
+      "NN_oracle": -0.0760279300718425
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 360.0,
+    "window": "early",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.22900450949065929,
+        "tail_error_pct": 16.66666666666666,
+        "travel_rms_mm": 9.847522309538721,
+        "tire_rms_N": 307.09760986862244,
+        "force_rms_N": 316.78734075190727,
+        "min_contact_ratio": 0.7715014726792776,
+        "acc_peak": 0.9705436157070252
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.22885979310507598,
+        "tail_error_pct": 0.5103896426807006,
+        "travel_rms_mm": 9.825922264834237,
+        "tire_rms_N": 306.8996055788199,
+        "force_rms_N": 316.5615042155343,
+        "min_contact_ratio": 0.7719124097513941,
+        "acc_peak": 0.9681334133760292
+      },
+      "NN_oracle": {
+        "acc_rms": 0.22951964700687538,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 9.832563908537322,
+        "tire_rms_N": 306.9948116894284,
+        "force_rms_N": 316.7576653448418,
+        "min_contact_ratio": 0.7718777398358125,
+        "acc_peak": 0.9646469001512606
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 0.06319368378604473,
+      "NN_oracle": -0.22494645077595354
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 360.0,
+    "window": "settled",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.2352932304410929,
+        "tail_error_pct": 16.66666666666666,
+        "travel_rms_mm": 10.76704806244471,
+        "tire_rms_N": 313.3326446956873,
+        "force_rms_N": 336.76578159308536,
+        "min_contact_ratio": 0.7329335800397382,
+        "acc_peak": 1.2354926638205166
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.23533013305985545,
+        "tail_error_pct": 0.5103896426807006,
+        "travel_rms_mm": 10.716920268114345,
+        "tire_rms_N": 313.0358566675751,
+        "force_rms_N": 336.3380515844006,
+        "min_contact_ratio": 0.7326855720007994,
+        "acc_peak": 1.2265946437673723
+      },
+      "NN_oracle": {
+        "acc_rms": 0.2354626831144132,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 10.71109595206783,
+        "tire_rms_N": 313.0000808178805,
+        "force_rms_N": 336.28724661377566,
+        "min_contact_ratio": 0.7326940411000253,
+        "acc_peak": 1.2260757708282162
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.015683672111332925,
+      "NN_oracle": -0.07201765771274182
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 360.0,
+    "window": "whole",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.2719624168924566,
+        "tail_error_pct": 16.66666666666666,
+        "travel_rms_mm": 10.617690267309873,
+        "tire_rms_N": 323.9489694425646,
+        "force_rms_N": 336.2763993671679,
+        "min_contact_ratio": 0.6894807428017691,
+        "acc_peak": 1.4681505708480613
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.27197448474973707,
+        "tail_error_pct": 0.5103896426807006,
+        "travel_rms_mm": 10.584629001705428,
+        "tire_rms_N": 323.77660918877086,
+        "force_rms_N": 335.97323159557004,
+        "min_contact_ratio": 0.6895292363350357,
+        "acc_peak": 1.464907283114562
+      },
+      "NN_oracle": {
+        "acc_rms": 0.27200396699826634,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 10.583494973937896,
+        "tire_rms_N": 323.754198767585,
+        "force_rms_N": 335.9997353925061,
+        "min_contact_ratio": 0.6896799504862399,
+        "acc_peak": 1.4669544865824238
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": -0.00443732535486685,
+      "NN_oracle": -0.015277885188891283
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 360.0,
+    "window": "recovery",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.368559049169558,
+        "tail_error_pct": 16.66666666666666,
+        "travel_rms_mm": 11.47464365599897,
+        "tire_rms_N": 363.7630618149624,
+        "force_rms_N": 355.68693146119944,
+        "min_contact_ratio": 0.7035698314320802,
+        "acc_peak": 1.3132946203890996
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.36829866455751303,
+        "tail_error_pct": 0.5103896426807006,
+        "travel_rms_mm": 11.436240440113014,
+        "tire_rms_N": 363.7086661147606,
+        "force_rms_N": 355.26921950290614,
+        "min_contact_ratio": 0.7034826234578384,
+        "acc_peak": 1.3106650224896064
+      },
+      "NN_oracle": {
+        "acc_rms": 0.36832645313789036,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.456790256453454,
+        "tire_rms_N": 363.68383818658845,
+        "force_rms_N": 355.5130734958941,
+        "min_contact_ratio": 0.7035805332454466,
+        "acc_peak": 1.313338261326312
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 0.07064936070126926,
+      "NN_oracle": 0.06310957014669105
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 420.0,
+    "window": "loaded",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.20377686473630297,
+        "tail_error_pct": 28.57142857142856,
+        "travel_rms_mm": 10.750139188250813,
+        "tire_rms_N": 310.9362702054297,
+        "force_rms_N": 333.46849268479815,
+        "min_contact_ratio": 0.7671841829828152,
+        "acc_peak": 1.0582034735826098
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.20368217377806125,
+        "tail_error_pct": 0.6262461390108596,
+        "travel_rms_mm": 10.674156453816087,
+        "tire_rms_N": 310.45724844188624,
+        "force_rms_N": 332.7865329239918,
+        "min_contact_ratio": 0.767366174493221,
+        "acc_peak": 1.0496419250165268
+      },
+      "NN_oracle": {
+        "acc_rms": 0.20401108270965154,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 10.669638359588298,
+        "tire_rms_N": 310.4625243211535,
+        "force_rms_N": 332.77260293886405,
+        "min_contact_ratio": 0.7675181251960668,
+        "acc_peak": 1.0481984244529983
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 0.04646796306551071,
+      "NN_oracle": -0.11493845174803674
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 420.0,
+    "window": "early",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.19820154139487342,
+        "tail_error_pct": 28.57142857142856,
+        "travel_rms_mm": 9.952721222185946,
+        "tire_rms_N": 305.89853583388515,
+        "force_rms_N": 317.3746723351723,
+        "min_contact_ratio": 0.8024484824287736,
+        "acc_peak": 0.8380813085036162
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.1980662773820412,
+        "tail_error_pct": 0.6262461390108596,
+        "travel_rms_mm": 9.90954487126644,
+        "tire_rms_N": 305.57106019716724,
+        "force_rms_N": 316.9107464620309,
+        "min_contact_ratio": 0.8029232488253171,
+        "acc_peak": 0.834626803022503
+      },
+      "NN_oracle": {
+        "acc_rms": 0.1989061412731273,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 9.912702031328905,
+        "tire_rms_N": 305.6891250377894,
+        "force_rms_N": 317.0689643161411,
+        "min_contact_ratio": 0.8028635083581823,
+        "acc_peak": 0.8290902777867161
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 0.06824569167337424,
+      "NN_oracle": -0.3554966693473549
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 420.0,
+    "window": "settled",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.20338051369255591,
+        "tail_error_pct": 28.57142857142856,
+        "travel_rms_mm": 10.994338719075536,
+        "tire_rms_N": 312.45456510081436,
+        "force_rms_N": 338.6033611308517,
+        "min_contact_ratio": 0.7711603285326158,
+        "acc_peak": 1.050970542523349
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.20328042092501283,
+        "tail_error_pct": 0.6262461390108596,
+        "travel_rms_mm": 10.90910993818736,
+        "tire_rms_N": 311.91889674840536,
+        "force_rms_N": 337.8567152846414,
+        "min_contact_ratio": 0.7714135218171294,
+        "acc_peak": 1.040170874538837
+      },
+      "NN_oracle": {
+        "acc_rms": 0.20361215232526966,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 10.902316075122263,
+        "tire_rms_N": 311.88647251914006,
+        "force_rms_N": 337.78403518720376,
+        "min_contact_ratio": 0.7714136551981594,
+        "acc_peak": 1.0398938881352016
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 0.0492145317787851,
+      "NN_oracle": -0.1138942116470032
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 420.0,
+    "window": "whole",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.2536438440889061,
+        "tail_error_pct": 28.57142857142856,
+        "travel_rms_mm": 10.775749305999083,
+        "tire_rms_N": 323.3442131675153,
+        "force_rms_N": 337.5936584634908,
+        "min_contact_ratio": 0.6898794522917107,
+        "acc_peak": 1.416359624996817
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.25361294104705245,
+        "tail_error_pct": 0.6262461390108596,
+        "travel_rms_mm": 10.71535616485628,
+        "tire_rms_N": 323.0376661933011,
+        "force_rms_N": 337.0262701507045,
+        "min_contact_ratio": 0.6895546952187366,
+        "acc_peak": 1.4138852809790163
+      },
+      "NN_oracle": {
+        "acc_rms": 0.2536756541322385,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 10.716772508595085,
+        "tire_rms_N": 323.0106031009675,
+        "force_rms_N": 337.08193524415043,
+        "min_contact_ratio": 0.6898762126430096,
+        "acc_peak": 1.4165640876317278
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 0.012183635666251913,
+      "NN_oracle": -0.012541224269280171
+    }
+  },
+  {
+    "kind": "multisine",
+    "mass": 420.0,
+    "window": "recovery",
+    "means": {
+      "NN_fixed": {
+        "acc_rms": 0.3682638850119991,
+        "tail_error_pct": 28.57142857142856,
+        "travel_rms_mm": 11.618250168913503,
+        "tire_rms_N": 363.78678865439366,
+        "force_rms_N": 357.3369412451229,
+        "min_contact_ratio": 0.7034218515357473,
+        "acc_peak": 1.3149236093418348
+      },
+      "NN_adaptive": {
+        "acc_rms": 0.36794566409689894,
+        "tail_error_pct": 0.6262461390108596,
+        "travel_rms_mm": 11.548394509891288,
+        "tire_rms_N": 363.7453985099553,
+        "force_rms_N": 356.5498984187035,
+        "min_contact_ratio": 0.7031935355565121,
+        "acc_peak": 1.3114358732565956
+      },
+      "NN_oracle": {
+        "acc_rms": 0.3678986034001459,
+        "tail_error_pct": 0.0,
+        "travel_rms_mm": 11.588024210089124,
+        "tire_rms_N": 363.6741309954413,
+        "force_rms_N": 357.0466707649879,
+        "min_contact_ratio": 0.7034377242680501,
+        "acc_peak": 1.3150754767403527
+      }
+    },
+    "gains_pct": {
+      "NN_fixed": 0.0,
+      "NN_adaptive": 0.08641111117637656,
+      "NN_oracle": 0.09919018038960781
+    }
+  }
+]

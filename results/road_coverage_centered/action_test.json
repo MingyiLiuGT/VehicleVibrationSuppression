@@ -1,0 +1,9 @@
+{
+  "action_rmse_N": 2.7487074945705103,
+  "nominal_rmse_N": 2.684647266537264,
+  "mass_delta_rmse_N": 1.023289360729504,
+  "saturation_mae_N": 0.7871538723368533,
+  "raw_over_pct": 19.075,
+  "applied_over_pct": 0.0,
+  "loss": 0.00013134324321736302
+}

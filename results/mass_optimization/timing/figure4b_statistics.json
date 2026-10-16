@@ -1,0 +1,26 @@
+{
+  "definition": "Arithmetic mean \u00b1 sample standard deviation (ddof=1); all observations retained.",
+  "unit": "ms",
+  "methods": {
+    "NN_fixed": {
+      "n": 5000,
+      "mean": 0.0167671672,
+      "std": 0.007976630482604505
+    },
+    "MPC_fixed": {
+      "n": 5000,
+      "mean": 0.05701068720000001,
+      "std": 0.018272653003187884
+    },
+    "NN_adaptive": {
+      "n": 5000,
+      "mean": 0.020329292400000004,
+      "std": 0.007077478183957271
+    },
+    "MPC_adaptive": {
+      "n": 5000,
+      "mean": 0.3294828034,
+      "std": 0.2444891125882729
+    }
+  }
+}

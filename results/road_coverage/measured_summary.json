@@ -1,0 +1,78 @@
+{
+  "existing": {
+    "FFPD": {
+      "acc_rms": 0.023478986055487854,
+      "travel_rms_mm": 7.2917247939488625,
+      "tire_rms_N": 149.3806141484387,
+      "min_contact_ratio": 0.8111261491723092,
+      "raw_violation_pct": 0.5416666666666667
+    },
+    "MPC_no_preview": {
+      "acc_rms": 0.01545444800236807,
+      "travel_rms_mm": 8.354227685675992,
+      "tire_rms_N": 133.07426739483907,
+      "min_contact_ratio": 0.821179728508815,
+      "raw_violation_pct": 0.0
+    },
+    "MPC": {
+      "acc_rms": 0.013194329214234874,
+      "travel_rms_mm": 8.323611567099784,
+      "tire_rms_N": 130.77125627656872,
+      "min_contact_ratio": 0.8250269799610961,
+      "raw_violation_pct": 0.0
+    },
+    "NN_original": {
+      "acc_rms": 0.03136337022916608,
+      "travel_rms_mm": 10.858201467117048,
+      "tire_rms_N": 118.21812609194114,
+      "min_contact_ratio": 0.8373495296534057,
+      "raw_violation_pct": 0.22916666666666669
+    },
+    "NN_expanded": {
+      "acc_rms": 0.019398764783033554,
+      "travel_rms_mm": 8.53116368634861,
+      "tire_rms_N": 119.7068759532026,
+      "min_contact_ratio": 0.835429341028352,
+      "raw_violation_pct": 0.16666666666666669
+    },
+    "nn_vs_ffpd_gain_pct": 17.378183465041975
+  },
+  "new": {
+    "FFPD": {
+      "acc_rms": 0.01745063781260022,
+      "travel_rms_mm": 7.281584042599149,
+      "tire_rms_N": 90.74785119619837,
+      "min_contact_ratio": 0.9085599432730189,
+      "raw_violation_pct": 2.9374999999999996
+    },
+    "MPC_no_preview": {
+      "acc_rms": 0.02155234456553013,
+      "travel_rms_mm": 9.299353695405188,
+      "tire_rms_N": 80.06293882366587,
+      "min_contact_ratio": 0.9154001237095786,
+      "raw_violation_pct": 0.0
+    },
+    "MPC": {
+      "acc_rms": 0.015171963635747136,
+      "travel_rms_mm": 9.071879952703597,
+      "tire_rms_N": 78.44146650105442,
+      "min_contact_ratio": 0.9186201267636409,
+      "raw_violation_pct": 0.0
+    },
+    "NN_original": {
+      "acc_rms": 0.025194734404585806,
+      "travel_rms_mm": 9.523268478531152,
+      "tire_rms_N": 74.56536803112311,
+      "min_contact_ratio": 0.9232589271137772,
+      "raw_violation_pct": 0.04166666666666667
+    },
+    "NN_expanded": {
+      "acc_rms": 0.01910750312357745,
+      "travel_rms_mm": 9.09252576183506,
+      "tire_rms_N": 72.15953755097232,
+      "min_contact_ratio": 0.9241675670899943,
+      "raw_violation_pct": 0.35416666666666663
+    },
+    "nn_vs_ffpd_gain_pct": -9.494583113637777
+  }
+}

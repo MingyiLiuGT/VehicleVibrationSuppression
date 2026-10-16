@@ -1,0 +1,26 @@
+{
+  "in_domain": {
+    "prior_refined": 0.20926867261438004,
+    "refined": 0.20911963452505566
+  },
+  "unseen_sine": {
+    "prior_refined": 0.9069766497753771,
+    "refined": 0.9073889358574057
+  },
+  "unseen_mass": {
+    "prior_refined": 0.21449954339429012,
+    "refined": 0.21396012558115307
+  },
+  "bump": {
+    "prior_refined": 0.22087271788369855,
+    "refined": 0.2202358147897335
+  },
+  "preview_noise": {
+    "prior_refined": 0.3062465704615832,
+    "refined": 0.30686997119582565
+  },
+  "preview_delay": {
+    "prior_refined": 0.23423349150273065,
+    "refined": 0.23416354251128813
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "https://ndownloader.figshare.com/files/41206187",
+  "doi": "10.11583/DTU.23097002",
+  "full_source_md5": "d1c74b645b169dcd88ce99d71ffbb43e",
+  "excerpt_sha256": "bf51289619e9fa3ba0e1e6b8d982b0f36c9c1a38d91c34fb0ea966f4860053d4",
+  "channel": "Laser 21 [mm]",
+  "distance_origin": 16551.03328,
+  "source_range_m": [
+    1999.9937400000017,
+    2510.088319999999
+  ],
+  "detrend_fit_range_m": [
+    2000,
+    2510
+  ],
+  "detrend_coefficients": [
+    -3.9090309812399246e-05,
+    -0.02753690964451663
+  ],
+  "license": "CC BY 4.0",
+  "scope": "Additional measured verification after synthetic-only model freeze; no source amplitude rescaling."
+}

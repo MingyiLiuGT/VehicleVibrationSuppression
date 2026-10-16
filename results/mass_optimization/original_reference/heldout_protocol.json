@@ -1,0 +1,11 @@
+{
+  "policy_sha256": "ebf716db7a7a442aca6fef6f8faeaa8d38f0a9d5f36092f864b95e90f37956af",
+  "split": "heldout",
+  "noise": 0.05,
+  "estimator_projection_kg": [
+    180,
+    480
+  ],
+  "estimator": "Original RLS with expanded bounds only",
+  "mpc": false
+}

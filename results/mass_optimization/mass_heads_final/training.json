@@ -1,0 +1,86 @@
+{
+  "source": "paired_dense",
+  "architecture": [
+    34,
+    128,
+    128,
+    8
+  ],
+  "mass_input": "Scalar mass gates piecewise-linear interpolation among learned heads; clipped to training endpoints. This is part of the network inference.",
+  "estimator": {
+    "forget": 0.97,
+    "gate": 0.02,
+    "error_pct": 7.0513091415097815,
+    "loaded_error_pct": 7.435457835352032,
+    "recovery_error_pct": 5.514714366140772
+  },
+  "road_coverage_refinement": {
+    "epochs": 800,
+    "best_epoch": 591,
+    "seconds": 49.345434749964625,
+    "centered_inputs_folded_into_first_layer": true,
+    "validation_original": {
+      "action_rmse_N": 2.7789871051992843,
+      "nominal_rmse_N": 2.76515669734971,
+      "mass_delta_rmse_N": 1.0077642004030427,
+      "saturation_mae_N": 0.782899247230207,
+      "raw_over_pct": 21.040625,
+      "applied_over_pct": 0.0,
+      "loss": 0.00012787240777121595
+    },
+    "validation_expanded": {
+      "action_rmse_N": 0.9459172929989942,
+      "nominal_rmse_N": 0.9466802444490353,
+      "mass_delta_rmse_N": 0.2805019539276951,
+      "saturation_mae_N": 1.728320402977967,
+      "raw_over_pct": 0.49479166666666663,
+      "applied_over_pct": 0.0,
+      "loss": 1.0552806340245808e-05
+    },
+    "policy_sha256": "e765442b6a4f3ca87c67f5a88bfdfccc925904088a31bcf7d42f30679daac338"
+  },
+  "final_policy_sha256": "e765442b6a4f3ca87c67f5a88bfdfccc925904088a31bcf7d42f30679daac338",
+  "initial_mass_training": {
+    "seed": 17001,
+    "best_epoch": 615,
+    "epochs": 1100,
+    "seconds": 43.29257879208308,
+    "validation": {
+      "action_rmse_N": 3.3899419283170453,
+      "nominal_rmse_N": 3.396196200138626,
+      "mass_delta_rmse_N": 1.1191874231391592,
+      "loss": 0.0001642003008319198
+    },
+    "test": {
+      "action_rmse_N": 3.1985646482526606,
+      "nominal_rmse_N": 3.1868770009063896,
+      "mass_delta_rmse_N": 1.07792050688202,
+      "loss": 0.00015536546325669898
+    },
+    "selection": "Mass-head dense network selected for lower validation action and mass-difference errors; estimator selected solely for mean development identification error. Original MPC objective and ideal actuator retained. Final road tests not inspected before freeze.",
+    "sha256": "516562f3a331484d1b4d5961f6c2915ab43c897d27a9f39bd57f2b058b39f868"
+  },
+  "sha256": "e765442b6a4f3ca87c67f5a88bfdfccc925904088a31bcf7d42f30679daac338",
+  "best_epoch": 591,
+  "epochs": 800,
+  "test": {
+    "samples": 32000,
+    "mae_N": 1.352656982959771,
+    "rmse_N": 2.748707494570511,
+    "max_error_N": 50.68215117934392,
+    "sat_mae_N": 0.7871538723368533,
+    "sat_samples": 9022,
+    "raw_violation_pct": 19.075,
+    "mass_delta_rmse_N": 1.0232893607295035
+  },
+  "validation": {
+    "action_rmse_N": 2.7789871051992843,
+    "nominal_rmse_N": 2.76515669734971,
+    "mass_delta_rmse_N": 1.0077642004030427,
+    "saturation_mae_N": 0.782899247230207,
+    "raw_over_pct": 21.040625,
+    "applied_over_pct": 0.0,
+    "loss": 0.00012787240777121595
+  },
+  "selection": "Initial paired mass refinement followed by expanded synthetic coverage and height-invariant input training. Final checkpoint selected by original synthetic loss plus four times expanded synthetic validation loss. Previously viewed measured sets are regression evidence; the 2000\u20132510 m set is evaluated after freeze. Estimator settings retained."
+}

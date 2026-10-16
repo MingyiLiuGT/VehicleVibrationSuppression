@@ -1,0 +1,12 @@
+{
+  "candidate_sha256": "06846c4eb08d4ce4b1d9beb35b344e97cd13832263279f9faa808a659abe9ecb",
+  "original_sha256": "516562f3a331484d1b4d5961f6c2915ab43c897d27a9f39bd57f2b058b39f868",
+  "existing_measured": "Eight original segments: regression only, already inspected in earlier work.",
+  "new_measured": "Eight consecutive segments starting 1000 m from the first source record; 2 s run-in and 6 s evaluation at 10 m/s; no overlap with the original 0\u2013510 m source interval.",
+  "new_source_start_m": 1000,
+  "new_source_end_m": 1510,
+  "new_segment_count": 8,
+  "evaluation": "All segments retained. Candidate frozen by synthetic action validation before new measured responses are evaluated.",
+  "mass": "All 96 original heldout road/mass scenarios and fixed/adaptive/true-mass modes; unchanged RLS.",
+  "dataset_use": "No measured road samples used for training, normalization or checkpoint selection."
+}

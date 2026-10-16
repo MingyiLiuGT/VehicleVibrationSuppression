@@ -1,0 +1,16 @@
+{
+  "scenario_disjoint": true,
+  "checked_rollouts": 313,
+  "max_projected_kkt": 1.6278079955078795e-06,
+  "max_transition_residual": 0,
+  "force_bound_N": 500,
+  "files": {
+    "results/action_errors.json": "a28a0bf1f47691e967599bb010ef7013ac2b91595148bb92d39f9b6f9a98381d",
+    "results/figure2_horizon_selection.json": "a83fff085ef8604b884a13761ea3291803a00fb2f8946a76a84c3a03d5d8b1e9",
+    "results/provenance.json": "0cccae5a08c672911bb304d6d6ab8b854479627b2cca09b55e5f66dfedea5149",
+    "results/revision_details.json": "7a551617ab5ee210bd2f888f6ceb0f149c35099a9274962a2605350a5cb1ceba",
+    "results/split_manifest.json": "e9e87872f27bf238771da575a1be5cf03285793a6a42c985b3ebbc00aa8a8dcc",
+    "results/summary.json": "559c14ac8ad0da4560429d483f769aed5d0ea63811e278b10df749ee04a124ae",
+    "results/training.json": "35bee937ab39e3bf77f263a896c99ab7fb6bd54ea78a83bcf3c2fd859e76fad7"
+  }
+}

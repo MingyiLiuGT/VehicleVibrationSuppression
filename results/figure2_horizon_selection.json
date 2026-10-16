@@ -1,0 +1,181 @@
+{
+  "figure": "Figure 2(a)",
+  "dt_s": 0.01,
+  "terminology": "Prediction horizon [s]",
+  "definition": "T_p = N T_s; N road samples are held over the same N prediction intervals.",
+  "selection": "Six medoids minimizing summed squared distance in amplitude-frequency space, with each coordinate min-max scaled over the eight original sinusoidal roads. Controller RMS and improvement are not used for selection; ties use ascending road IDs.",
+  "cases": [
+    {
+      "label": "Road A",
+      "seed": 5001,
+      "amplitude_m": 0.01347272400670385,
+      "frequency_Hz": 2.4970238324330345,
+      "prediction_steps": [
+        1,
+        10,
+        30,
+        60
+      ],
+      "prediction_horizon_s": [
+        0.01,
+        0.1,
+        0.3,
+        0.6
+      ],
+      "acceleration_rms_m_s2": [
+        0.015297411031524029,
+        0.01262923348783476,
+        0.008743234894545144,
+        0.008200958117844393
+      ]
+    },
+    {
+      "label": "Road B",
+      "seed": 5002,
+      "amplitude_m": 0.016773608176876044,
+      "frequency_Hz": 2.4862924546712635,
+      "prediction_steps": [
+        1,
+        10,
+        30,
+        60
+      ],
+      "prediction_horizon_s": [
+        0.01,
+        0.1,
+        0.3,
+        0.6
+      ],
+      "acceleration_rms_m_s2": [
+        0.18426649502293554,
+        0.17186633798003864,
+        0.16345168950532915,
+        0.16250558594544784
+      ]
+    },
+    {
+      "label": "Road C",
+      "seed": 5003,
+      "amplitude_m": 0.015903882665774235,
+      "frequency_Hz": 1.0848619909166477,
+      "prediction_steps": [
+        1,
+        10,
+        30,
+        60
+      ],
+      "prediction_horizon_s": [
+        0.01,
+        0.1,
+        0.3,
+        0.6
+      ],
+      "acceleration_rms_m_s2": [
+        0.0015260553138668116,
+        0.0024955756475710006,
+        0.007417377364029468,
+        0.012007405048460592
+      ]
+    },
+    {
+      "label": "Road D",
+      "seed": 5004,
+      "amplitude_m": 0.011255039237443629,
+      "frequency_Hz": 1.8466789841833766,
+      "prediction_steps": [
+        1,
+        10,
+        30,
+        60
+      ],
+      "prediction_horizon_s": [
+        0.01,
+        0.1,
+        0.3,
+        0.6
+      ],
+      "acceleration_rms_m_s2": [
+        0.0013981911972641256,
+        0.002171369464952348,
+        0.003729960514086397,
+        0.004904649326070686
+      ]
+    },
+    {
+      "label": "Road E",
+      "seed": 5006,
+      "amplitude_m": 0.02293404843166562,
+      "frequency_Hz": 1.7842175488472853,
+      "prediction_steps": [
+        1,
+        10,
+        30,
+        60
+      ],
+      "prediction_horizon_s": [
+        0.01,
+        0.1,
+        0.3,
+        0.6
+      ],
+      "acceleration_rms_m_s2": [
+        0.3920648892793458,
+        0.3762628029931554,
+        0.34373380552455285,
+        0.328550447553165
+      ]
+    },
+    {
+      "label": "Road F",
+      "seed": 5007,
+      "amplitude_m": 0.023745259394171055,
+      "frequency_Hz": 0.8017048663681354,
+      "prediction_steps": [
+        1,
+        10,
+        30,
+        60
+      ],
+      "prediction_horizon_s": [
+        0.01,
+        0.1,
+        0.3,
+        0.6
+      ],
+      "acceleration_rms_m_s2": [
+        0.2745634778429243,
+        0.24885139703220482,
+        0.04395797782140456,
+        0.026749033763971822
+      ]
+    }
+  ],
+  "complete_eight_road_summary": {
+    "1": {
+      "MPC": {
+        "mean": 0.10900867030903008,
+        "sd": 0.15502708311575666
+      }
+    },
+    "10": {
+      "MPC": {
+        "mean": 0.1023590344739689,
+        "sd": 0.1460924488017064
+      }
+    },
+    "30": {
+      "MPC": {
+        "mean": 0.07241054752122064,
+        "sd": 0.12249478908802983
+      }
+    },
+    "60": {
+      "MPC": {
+        "mean": 0.06919488234256707,
+        "sd": 0.11775226515272348
+      }
+    }
+  },
+  "source": "results/sweeps.csv",
+  "force_panel": "Unchanged eight-road means"
+}

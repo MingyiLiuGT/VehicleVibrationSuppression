@@ -1,0 +1,24 @@
+{
+  "policy_sha256": "e765442b6a4f3ca87c67f5a88bfdfccc925904088a31bcf7d42f30679daac338",
+  "mass_range_kg": [
+    200,
+    450
+  ],
+  "reference_mass_kg": 300,
+  "duration_s": 24,
+  "changed_interval_s": [
+    4,
+    20
+  ],
+  "noise_m_s2": 0.05,
+  "rls": {
+    "forget": 0.97,
+    "gate": 0.02,
+    "bounds": [
+      180,
+      480
+    ]
+  },
+  "purpose": "Exploratory operating region selection followed by independent validation; retain every exploratory result. No policy or fixed baseline changes.",
+  "primary": "Ratio of group mean RMS over the entire 4-20 s interval; no outcome-dependent time window or road removal."
+}

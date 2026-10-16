@@ -1,0 +1,24 @@
+{
+  "epochs": 800,
+  "best_epoch": 40,
+  "seconds": 538.0059612909099,
+  "validation_original": {
+    "action_rmse_N": 3.4105864350840744,
+    "nominal_rmse_N": 3.406262178999634,
+    "mass_delta_rmse_N": 1.1235129717560688,
+    "saturation_mae_N": 0.854384817275745,
+    "raw_over_pct": 21.15625,
+    "applied_over_pct": 0.0,
+    "loss": 0.00016403633282519573
+  },
+  "validation_expanded": {
+    "action_rmse_N": 1.5820241612169899,
+    "nominal_rmse_N": 1.6042550061222802,
+    "mass_delta_rmse_N": 0.37139592832837126,
+    "saturation_mae_N": 1.8843286314488141,
+    "raw_over_pct": 0.5772569444444444,
+    "applied_over_pct": 0.0,
+    "loss": 2.2884647910091633e-05
+  },
+  "policy_sha256": "06846c4eb08d4ce4b1d9beb35b344e97cd13832263279f9faa808a659abe9ecb"
+}

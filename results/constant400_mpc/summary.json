@@ -1,0 +1,102 @@
+[
+  {
+    "kind": "sine",
+    "window": "whole",
+    "means": {
+      "300": {
+        "acc_rms": 0.06479197376678282,
+        "travel_rms_mm": 11.187644349054652,
+        "tire_rms_N": 235.9275043957914,
+        "force_rms_N": 360.38414698594164,
+        "saturation_pct": 27.402777777777775,
+        "realized_stage_cost": 0.011659677077139587
+      },
+      "400": {
+        "acc_rms": 0.0656739994699936,
+        "travel_rms_mm": 11.173000536527915,
+        "tire_rms_N": 236.62765787284926,
+        "force_rms_N": 361.54893700455114,
+        "saturation_pct": 28.017361111111114,
+        "realized_stage_cost": 0.01181549163872402
+      }
+    },
+    "model400_acc_reduction_pct": -1.3613193917901167,
+    "model400_better_roads": 2,
+    "roads": 12
+  },
+  {
+    "kind": "sine",
+    "window": "interior",
+    "means": {
+      "300": {
+        "acc_rms": 0.06456667842101789,
+        "travel_rms_mm": 11.274518604414942,
+        "tire_rms_N": 236.8736426988926,
+        "force_rms_N": 362.53058720124955,
+        "saturation_pct": 27.765625,
+        "realized_stage_cost": 0.01178376887028054
+      },
+      "400": {
+        "acc_rms": 0.06552998247938759,
+        "travel_rms_mm": 11.260494615350572,
+        "tire_rms_N": 237.61775877229138,
+        "force_rms_N": 363.6934151297241,
+        "saturation_pct": 28.40625,
+        "realized_stage_cost": 0.011942375830362754
+      }
+    },
+    "model400_acc_reduction_pct": -1.4919523226645026,
+    "model400_better_roads": 2,
+    "roads": 12
+  },
+  {
+    "kind": "multisine",
+    "window": "whole",
+    "means": {
+      "300": {
+        "acc_rms": 0.22310405505570763,
+        "travel_rms_mm": 11.23192204733981,
+        "tire_rms_N": 318.8134733771846,
+        "force_rms_N": 342.51056238256734,
+        "saturation_pct": 24.79861111111111,
+        "realized_stage_cost": 0.06211469474008984
+      },
+      "400": {
+        "acc_rms": 0.22144937852796262,
+        "travel_rms_mm": 11.093242191821732,
+        "tire_rms_N": 317.79797188057074,
+        "force_rms_N": 341.67965079590203,
+        "saturation_pct": 24.5625,
+        "realized_stage_cost": 0.061566404150698605
+      }
+    },
+    "model400_acc_reduction_pct": 0.7416613415349382,
+    "model400_better_roads": 10,
+    "roads": 12
+  },
+  {
+    "kind": "multisine",
+    "window": "interior",
+    "means": {
+      "300": {
+        "acc_rms": 0.22852468403133044,
+        "travel_rms_mm": 11.383749948854108,
+        "tire_rms_N": 320.78575860239096,
+        "force_rms_N": 343.8813744165655,
+        "saturation_pct": 24.9375,
+        "realized_stage_cost": 0.06593982476207101
+      },
+      "400": {
+        "acc_rms": 0.22672067736099466,
+        "travel_rms_mm": 11.233968223034928,
+        "tire_rms_N": 319.80203093597373,
+        "force_rms_N": 342.97161961106116,
+        "saturation_pct": 24.703125,
+        "realized_stage_cost": 0.06530975947502635
+      }
+    },
+    "model400_acc_reduction_pct": 0.7894143593207836,
+    "model400_better_roads": 11,
+    "roads": 12
+  }
+]

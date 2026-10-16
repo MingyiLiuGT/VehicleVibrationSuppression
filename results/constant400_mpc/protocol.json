@@ -1,0 +1,62 @@
+{
+  "true_mass_kg": 400,
+  "prediction_masses_kg": [
+    300,
+    400
+  ],
+  "force_limit_N": 500,
+  "duration_s": 24,
+  "windows_s": {
+    "whole": [
+      0,
+      24
+    ],
+    "interior": [
+      4,
+      20
+    ]
+  },
+  "roads": {
+    "sine": [
+      16000,
+      16001,
+      16002,
+      16003,
+      16004,
+      16005,
+      16006,
+      16007,
+      16008,
+      16009,
+      16010,
+      16011
+    ],
+    "multisine": [
+      16100,
+      16101,
+      16102,
+      16103,
+      16104,
+      16105,
+      16106,
+      16107,
+      16108,
+      16109,
+      16110,
+      16111
+    ]
+  },
+  "initial_state": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "horizon": 30,
+  "dt": 0.01,
+  "description": "Constant mass from t=0; no mass switch or identification. Same MPC objective, exact state and preview. Primary window 0\u201324 s; 4\u201320 s secondary.",
+  "sources": {
+    "core.py": "9a79e2e10cb75a7dae480cb69a80ac2be6787be7ab6d3049dfa09a7fa193d07a",
+    "evaluate_constant400_mpc.py": "8e844ba827b9a016e98f64cc3719491b81bbaa1b4477e5da0f3229c2db0d8433"
+  }
+}

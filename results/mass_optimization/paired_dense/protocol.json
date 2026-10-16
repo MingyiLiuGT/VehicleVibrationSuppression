@@ -1,0 +1,21 @@
+{
+  "masses": [
+    200.0,
+    240.0,
+    270.0,
+    300.0,
+    330.0,
+    360.0,
+    420.0,
+    450.0
+  ],
+  "weights": [
+    1.0,
+    0.02,
+    0.02
+  ],
+  "effort": 0.005,
+  "paired_source": "Every 2th source sample; all original scenarios retained; each state/preview labeled at eight masses",
+  "stride": 2,
+  "training": "See train_mass_heads.py and mass_heads_dense/training.json; removed obsolete exploratory trainer defaults during cleanup."
+}

@@ -1,0 +1,20 @@
+{
+  "epochs": 1100,
+  "seed": 17001,
+  "batch_size": 128,
+  "force_bound_N": 500,
+  "architecture": [
+    34,
+    128,
+    128,
+    8
+  ],
+  "checkpoint_selection": "minimum validation loss only",
+  "loss": "raw action MSE + 25 * applied mass-difference MSE",
+  "initialization": "same original nominal policy weights and same minibatch order",
+  "tanh_position": "each mass head, before convex mass interpolation",
+  "dataset_sha256": "875e8033e93d4338fe54fc085fc79bd10c67b7f5f7f18213224716494d25c6d5",
+  "baseline_sha256": "516562f3a331484d1b4d5961f6c2915ab43c897d27a9f39bd57f2b058b39f868",
+  "gradient_check_max_absolute_error": 2.411577194882941e-09,
+  "evaluation": "all 96 existing mass scenarios, all 48 synthetic road cases, 8 measured road segments; no test-based checkpoint selection"
+}

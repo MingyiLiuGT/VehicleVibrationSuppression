@@ -1,0 +1,42 @@
+{
+  "dt_s": 0.01,
+  "horizon": 30,
+  "speed_m_s": 10,
+  "evaluation_s": [
+    2,
+    8
+  ],
+  "segment_count": 8,
+  "segment_length_m": 60,
+  "initialization": "Static equilibrium at the initial wheel road heights",
+  "quarter_mass_kg": 300,
+  "half_body_mass_kg": 915.0,
+  "half_pitch_inertia_kg_m2": 608.5226562500001,
+  "wheelbase_m": 2.825,
+  "half_axle_unsprung_mass_kg": 40.0,
+  "half_weights": [
+    1.0,
+    1.0,
+    0.02,
+    0.02,
+    0.02,
+    0.02
+  ],
+  "half_output_scales": [
+    1,
+    0.7079646017699115,
+    0.08,
+    0.08,
+    4880.475,
+    4880.475
+  ],
+  "effort_weight": 0.005,
+  "force_limit_per_actuator_N": 500,
+  "metrics": "Full 6 s evaluation, after 2 s run-in; means across eight segments; reductions computed from group means.",
+  "selection": "First eight consecutive segments; representative chosen by upper-median FFPD heave RMS.",
+  "half_scope": "Predictive control only; no half-car NN, identification, or timing claim.",
+  "policy_sha256": {
+    "results/models/policy.npz": "ebf716db7a7a442aca6fef6f8faeaa8d38f0a9d5f36092f864b95e90f37956af",
+    "results/mass_optimization/mass_heads_final/policy.npz": "e765442b6a4f3ca87c67f5a88bfdfccc925904088a31bcf7d42f30679daac338"
+  }
+}

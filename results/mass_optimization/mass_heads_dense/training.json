@@ -1,0 +1,26 @@
+{
+  "source": "paired_dense",
+  "architecture": [
+    34,
+    128,
+    128,
+    8
+  ],
+  "mass_input": "Scalar mass gates piecewise-linear interpolation among learned heads; clipped to training endpoints. This is part of the network inference.",
+  "seed": 17001,
+  "best_epoch": 615,
+  "epochs": 1100,
+  "seconds": 43.29257879208308,
+  "validation": {
+    "action_rmse_N": 3.3899419283170453,
+    "nominal_rmse_N": 3.396196200138626,
+    "mass_delta_rmse_N": 1.1191874231391592,
+    "loss": 0.0001642003008319198
+  },
+  "test": {
+    "action_rmse_N": 3.1985646482526606,
+    "nominal_rmse_N": 3.1868770009063896,
+    "mass_delta_rmse_N": 1.07792050688202,
+    "loss": 0.00015536546325669898
+  }
+}

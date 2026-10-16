@@ -1,0 +1,90 @@
+{
+  "duration_s": 24,
+  "change_times_s": [
+    4,
+    20
+  ],
+  "masses_kg": [
+    200,
+    240,
+    360,
+    420
+  ],
+  "roads": {
+    "sine": [
+      16000,
+      16001,
+      16002,
+      16003,
+      16004,
+      16005,
+      16006,
+      16007,
+      16008,
+      16009,
+      16010,
+      16011
+    ],
+    "multisine": [
+      16100,
+      16101,
+      16102,
+      16103,
+      16104,
+      16105,
+      16106,
+      16107,
+      16108,
+      16109,
+      16110,
+      16111
+    ]
+  },
+  "methods": [
+    "MPC_fixed",
+    "MPC_adaptive",
+    "MPC_oracle"
+  ],
+  "windows_s": {
+    "loaded": [
+      4,
+      20
+    ],
+    "early": [
+      4,
+      8
+    ],
+    "settled": [
+      8,
+      20
+    ],
+    "whole": [
+      0,
+      24
+    ],
+    "recovery": [
+      20,
+      24
+    ]
+  },
+  "acceleration_noise_std": 0.05,
+  "rls": {
+    "forget": 0.97,
+    "gate": 0.02,
+    "mass_bounds": [
+      180,
+      480
+    ],
+    "initial_mass": 300,
+    "initial_covariance": 100
+  },
+  "controller": "Identical core.MPC objective, 30-step preview, 10 ms sampling, \u00b1500 N; rebuild with each changed prior-sample estimate, no rounding or smoothing.",
+  "causality": "Measure acceleration after current action, update mass for next step. Only oracle receives current true mass; no future mass schedule in prediction.",
+  "primary": "Group reduction = 100*(mean fixed RMS - mean adaptive RMS)/mean fixed RMS over 4\u201320 s; also individual-road counts and early/late windows.",
+  "sources": {
+    "core.py": "9a79e2e10cb75a7dae480cb69a80ac2be6787be7ab6d3049dfa09a7fa193d07a",
+    "mass_controller.py": "522070b6458ccc2257b4d6521058c73ceb00255150833bbb840012653200ff80",
+    "evaluate_adaptive_mass_mpc.py": "0dc450ea09b148d12c65ea08b71d5c28461105a28512ac780666746c1b609495"
+  },
+  "selection": "No tuning or selecting by adaptive improvement. Plot upper-median fixed MPC loaded RMS at 200 kg, sinusoidal roads."
+}

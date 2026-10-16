@@ -1,0 +1,39 @@
+{
+  "doi": "10.11583/DTU.23097002",
+  "url": "https://data.dtu.dk/articles/dataset/Data_subset_for_road_condition_modelling_-_reference_data/23097002",
+  "title": "Data subset for road condition modelling - reference data",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "authors": [
+    "Asmus Skar Christiansen",
+    "Tommy Sonne Alstr\u00f8m",
+    "Thea Br\u00fcsch",
+    "Anders Malherbes Vestergaard",
+    "Jakob Larsen",
+    "Matteo Pettinari",
+    "Shahrzad M. Pour",
+    "Ekkart Kindler",
+    "Uwe Schlotz"
+  ],
+  "file": {
+    "id": 41206187,
+    "name": "m13_zp_vh.csv",
+    "size": 43383144,
+    "is_link_only": false,
+    "download_url": "https://ndownloader.figshare.com/files/41206187",
+    "supplied_md5": "d1c74b645b169dcd88ce99d71ffbb43e",
+    "computed_md5": "d1c74b645b169dcd88ce99d71ffbb43e",
+    "mimetype": "text/plain"
+  },
+  "download_date": "2026-10-11",
+  "excerpt": "Header and first 6000 complete records, original bytes and order; remaining source not used.",
+  "excerpt_sha256": "04e7278edca955df93530da9c25c8d763a3b0d86dade24108a8abc5e3b9cbf24",
+  "channel": "Laser 21 [mm]",
+  "speed_m_s": 10.0,
+  "evaluation": "Eight consecutive non-overlapping 60 m windows beginning 20 m after the first record; each run includes 20 m of preceding road and 3 m preview.",
+  "preprocessing": "Convert mm to m; subtract a least-squares straight line fitted over the first 510 m; interpolate distance at 0.1 m. No amplitude rescaling or performance-based segment selection.",
+  "original_local_array_available": false
+}

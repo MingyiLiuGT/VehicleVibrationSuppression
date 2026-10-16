@@ -1,0 +1,95 @@
+{
+  "selected": {
+    "forget": 0.97,
+    "gate": 0.02,
+    "error_pct": 7.0513091415097815,
+    "loaded_error_pct": 7.435457835352032,
+    "recovery_error_pct": 5.514714366140772
+  },
+  "candidates": [
+    {
+      "forget": 0.97,
+      "gate": 0.005,
+      "error_pct": 8.424734097676724,
+      "loaded_error_pct": 8.418218944106158,
+      "recovery_error_pct": 8.450794711958991
+    },
+    {
+      "forget": 0.97,
+      "gate": 0.02,
+      "error_pct": 7.0513091415097815,
+      "loaded_error_pct": 7.435457835352032,
+      "recovery_error_pct": 5.514714366140772
+    },
+    {
+      "forget": 0.97,
+      "gate": 0.05,
+      "error_pct": 7.105714447472121,
+      "loaded_error_pct": 7.456951595396562,
+      "recovery_error_pct": 5.700765855774356
+    },
+    {
+      "forget": 0.99,
+      "gate": 0.005,
+      "error_pct": 7.54668219955764,
+      "loaded_error_pct": 6.862465338964612,
+      "recovery_error_pct": 10.283549641929756
+    },
+    {
+      "forget": 0.99,
+      "gate": 0.02,
+      "error_pct": 7.718265710294716,
+      "loaded_error_pct": 7.5998622404377745,
+      "recovery_error_pct": 8.191879589722479
+    },
+    {
+      "forget": 0.99,
+      "gate": 0.05,
+      "error_pct": 8.185493486161121,
+      "loaded_error_pct": 7.903515254641744,
+      "recovery_error_pct": 9.313406412238635
+    },
+    {
+      "forget": 0.995,
+      "gate": 0.005,
+      "error_pct": 8.778667582353314,
+      "loaded_error_pct": 7.485138326121049,
+      "recovery_error_pct": 13.952784607282373
+    },
+    {
+      "forget": 0.995,
+      "gate": 0.02,
+      "error_pct": 9.478597639033946,
+      "loaded_error_pct": 8.751227948437034,
+      "recovery_error_pct": 12.388076401421598
+    },
+    {
+      "forget": 0.995,
+      "gate": 0.05,
+      "error_pct": 10.117457235591704,
+      "loaded_error_pct": 9.267704885178926,
+      "recovery_error_pct": 13.516466637242814
+    },
+    {
+      "forget": 0.999,
+      "gate": 0.005,
+      "error_pct": 13.533926831693718,
+      "loaded_error_pct": 11.725986991518221,
+      "recovery_error_pct": 20.765686192395698
+    },
+    {
+      "forget": 0.999,
+      "gate": 0.02,
+      "error_pct": 13.711038824046863,
+      "loaded_error_pct": 12.65511565432848,
+      "recovery_error_pct": 17.9347315029204
+    },
+    {
+      "forget": 0.999,
+      "gate": 0.05,
+      "error_pct": 14.01467953484709,
+      "loaded_error_pct": 13.041820255221495,
+      "recovery_error_pct": 17.90611665334948
+    }
+  ]
+}
